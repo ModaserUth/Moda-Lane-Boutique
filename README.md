@@ -1,9 +1,8 @@
 you can open files by 
+ 
+ 1- https://moda-lane-boutique-kbllem8hrthhqvdt7xzymb.streamlit.app
 
-    1- https://moda-lane-boutique-kbllem8hrthhqvdt7xzymb.streamlit.app
-
-    2- https://modaseruth.github.io/Moda-Lane-Boutique
-
+ 2- https://modaseruth.github.io/Moda-Lane-Boutique
 
 in link 1 it deploy for 30 days after that it deploy will end if you need to run with this show
 you can downlead 
