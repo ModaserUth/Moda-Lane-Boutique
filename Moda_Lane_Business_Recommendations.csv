@@ -1,0 +1,9 @@
+Area,Finding,Recommended Action,Priority
+Marketing Channel,Facebook has ROAS 5.39.,Protect the channel's budget and run a controlled scale-up test.,High
+Marketing Channel,Google Ads has ROAS 5.70.,Protect the channel's budget and run a controlled scale-up test.,High
+Marketing Channel,Referrals has ROAS 5.82.,Protect the channel's budget and run a controlled scale-up test.,High
+Marketing Channel,Flyers is below the median channel ROAS.,"Audit targeting, creative, offer and audience quality before increasing spend.",High
+Marketing Channel,Instagram is below the median channel ROAS.,"Audit targeting, creative, offer and audience quality before increasing spend.",High
+Service Mix,Premium has the highest observed service-level ROAS.,Test this service in campaign creatives and relevant bundles; validate margin before scaling.,High
+Loyalty,Returning-labelled records account for 47.5% of recorded revenue.,Pilot a returning-customer benefit and measure incremental revenue against a control group.,High
+Campaign Efficiency,174 records have positive ad spend and zero recorded revenue.,"Audit tracking, attribution windows, landing-page performance and campaign targeting for these records.",High

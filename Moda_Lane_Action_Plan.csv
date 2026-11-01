@@ -1,0 +1,6 @@
+Priority,Initiative,Evidence,Next Action,Owner
+1,Audit tracking,Positive spend with zero revenue,Validate conversion events and attribution,Marketing / Analytics
+2,Channel experiments,Channel ROAS comparison,Run controlled budget tests,Marketing
+3,Service offer tests,Service-level revenue and ROAS,Test service bundles and premium upgrades,Commercial / Marketing
+4,Loyalty pilot,Returning-labelled revenue contribution,Launch controlled loyalty experiment,CRM / Marketing
+5,Data enrichment,No customer/order/product identifiers,Add customer and transaction-level fields,Data / Operations

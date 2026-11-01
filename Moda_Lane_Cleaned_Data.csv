@@ -1,0 +1,2001 @@
+Date,Season,Channel,Service Type,Customer Type,Ad Spend,Conversions,Revenue
+2024-05-02,Summer,Flyers,Standard,New,94.27,3,299.57
+2024-05-02,Summer,Instagram,Standard,Returning,83.43,7,409.21
+2024-05-02,Summer,Flyers,Premium,New,25.92,8,319.23
+2024-05-02,Summer,Flyers,Discounted,Returning,72.37,3,262.02
+2024-05-02,Summer,Instagram,Standard,New,27.79,7,693.33
+2024-05-03,Summer,Facebook,Discounted,New,99.42,8,565.63
+2024-05-03,Summer,Facebook,Standard,New,36.59,9,328.91
+2024-05-03,Summer,Instagram,Discounted,New,57.19,5,88.26
+2024-05-03,Summer,Flyers,Standard,New,84.86,0,0.0
+2024-05-03,Summer,Google Ads,Premium,New,53.53,0,0.0
+2024-05-04,Summer,Facebook,Premium,Returning,42.74,4,118.07
+2024-05-04,Summer,Facebook,Standard,New,68.43,4,64.48
+2024-05-04,Summer,Flyers,Standard,New,52.26,5,473.77
+2024-05-04,Summer,Instagram,Standard,Returning,99.47,8,798.38
+2024-05-04,Summer,Google Ads,Standard,Returning,62.03,3,83.47
+2024-05-04,Summer,Flyers,Discounted,New,96.92,10,470.91
+2024-05-04,Summer,Instagram,Standard,Returning,54.83,5,445.52
+2024-05-04,Summer,Google Ads,Standard,Returning,92.61,2,162.47
+2024-05-04,Summer,Instagram,Premium,Returning,65.04,1,38.57
+2024-05-05,Summer,Referrals,Standard,New,65.26,8,340.77
+2024-05-05,Summer,Referrals,Standard,Returning,93.07,9,201.11
+2024-05-05,Summer,Referrals,Discounted,Returning,67.91,2,103.08
+2024-05-05,Summer,Instagram,Premium,Returning,55.36,3,240.31
+2024-05-05,Summer,Instagram,Discounted,New,29.29,1,93.26
+2024-05-06,Summer,Instagram,Discounted,Returning,87.11,4,302.51
+2024-05-06,Summer,Google Ads,Discounted,New,43.07,1,97.23
+2024-05-06,Summer,Google Ads,Discounted,New,73.04,5,291.19
+2024-05-06,Summer,Referrals,Standard,New,58.13,0,0.0
+2024-05-06,Summer,Instagram,Standard,Returning,92.76,4,137.04
+2024-05-06,Summer,Google Ads,Standard,New,61.24,9,536.08
+2024-05-06,Summer,Google Ads,Standard,Returning,35.41,4,171.64
+2024-05-06,Summer,Google Ads,Standard,New,97.38,10,705.55
+2024-05-07,Summer,Referrals,Premium,New,82.48,7,417.49
+2024-05-07,Summer,Facebook,Premium,New,72.29,4,130.45
+2024-05-07,Summer,Google Ads,Discounted,Returning,44.93,4,114.55
+2024-05-08,Summer,Google Ads,Standard,New,90.63,4,266.45
+2024-05-10,Summer,Instagram,Discounted,Returning,32.9,4,292.41
+2024-05-10,Summer,Google Ads,Discounted,New,77.82,8,666.72
+2024-05-10,Summer,Instagram,Premium,New,22.53,4,112.35
+2024-05-11,Summer,Flyers,Premium,New,91.62,8,732.04
+2024-05-11,Summer,Facebook,Standard,New,60.37,8,737.61
+2024-05-11,Summer,Flyers,Standard,Returning,16.92,6,544.24
+2024-05-11,Summer,Instagram,Standard,New,14.24,8,250.39
+2024-05-11,Summer,Facebook,Standard,Returning,48.95,6,587.76
+2024-05-12,Summer,Google Ads,Discounted,Returning,14.39,8,591.58
+2024-05-12,Summer,Instagram,Discounted,Returning,77.93,1,87.17
+2024-05-12,Summer,Facebook,Premium,New,91.37,8,322.5
+2024-05-12,Summer,Instagram,Standard,New,20.7,1,62.29
+2024-05-13,Summer,Google Ads,Discounted,Returning,19.14,8,176.0
+2024-05-13,Summer,Facebook,Discounted,New,60.47,4,372.1
+2024-05-13,Summer,Google Ads,Discounted,New,30.27,0,0.0
+2024-05-13,Summer,Instagram,Discounted,New,53.84,7,500.65
+2024-05-13,Summer,Facebook,Discounted,New,28.76,2,142.49
+2024-05-13,Summer,Facebook,Standard,Returning,8.41,9,199.61
+2024-05-13,Summer,Flyers,Premium,New,43.28,10,683.65
+2024-05-13,Summer,Instagram,Standard,Returning,52.48,1,51.54
+2024-05-13,Summer,Google Ads,Discounted,New,43.92,7,411.56
+2024-05-14,Summer,Facebook,Standard,Returning,99.25,5,396.17
+2024-05-14,Summer,Facebook,Discounted,Returning,57.48,2,50.63
+2024-05-14,Summer,Referrals,Discounted,Returning,53.44,4,245.32
+2024-05-14,Summer,Google Ads,Standard,New,19.96,0,0.0
+2024-05-14,Summer,Facebook,Discounted,Returning,38.33,10,198.23
+2024-05-14,Summer,Instagram,Standard,Returning,24.53,7,383.16
+2024-05-14,Summer,Google Ads,Discounted,Returning,86.1,7,301.11
+2024-05-15,Summer,Referrals,Premium,Returning,65.36,5,405.41
+2024-05-15,Summer,Facebook,Premium,New,30.3,5,158.16
+2024-05-15,Summer,Google Ads,Discounted,New,49.02,6,259.83
+2024-05-15,Summer,Flyers,Premium,New,47.53,3,122.12
+2024-05-15,Summer,Google Ads,Discounted,New,47.71,0,0.0
+2024-05-16,Summer,Referrals,Premium,Returning,9.64,1,71.68
+2024-05-16,Summer,Google Ads,Standard,New,82.76,9,571.4
+2024-05-16,Summer,Facebook,Discounted,Returning,88.0,1,20.1
+2024-05-16,Summer,Facebook,Discounted,Returning,37.37,3,250.1
+2024-05-17,Summer,Flyers,Discounted,New,52.51,8,142.85
+2024-05-17,Summer,Google Ads,Premium,New,31.07,2,171.04
+2024-05-17,Summer,Referrals,Premium,Returning,50.79,7,236.41
+2024-05-17,Summer,Google Ads,Standard,New,68.28,7,314.23
+2024-05-18,Summer,Flyers,Standard,Returning,87.96,8,352.73
+2024-05-18,Summer,Google Ads,Discounted,New,90.65,1,43.92
+2024-05-18,Summer,Facebook,Discounted,Returning,33.14,0,0.0
+2024-05-18,Summer,Referrals,Standard,Returning,64.33,5,492.04
+2024-05-18,Summer,Referrals,Standard,New,43.36,5,367.72
+2024-05-18,Summer,Google Ads,Standard,Returning,10.89,9,324.83
+2024-05-18,Summer,Google Ads,Standard,New,96.59,0,0.0
+2024-05-19,Summer,Referrals,Standard,Returning,16.05,1,79.09
+2024-05-19,Summer,Instagram,Discounted,New,30.82,2,92.4
+2024-05-19,Summer,Referrals,Discounted,New,79.89,6,577.13
+2024-05-19,Summer,Facebook,Standard,New,58.16,5,248.95
+2024-05-19,Summer,Instagram,Standard,New,9.01,5,308.19
+2024-05-19,Summer,Google Ads,Discounted,New,44.68,5,316.41
+2024-05-19,Summer,Facebook,Premium,New,19.66,0,0.0
+2024-05-20,Summer,Referrals,Discounted,New,49.63,5,422.1
+2024-05-20,Summer,Facebook,Discounted,New,30.58,1,40.36
+2024-05-20,Summer,Facebook,Premium,Returning,93.77,7,672.85
+2024-05-20,Summer,Facebook,Premium,Returning,70.57,0,0.0
+2024-05-20,Summer,Referrals,Standard,New,5.23,1,97.39
+2024-05-20,Summer,Instagram,Standard,Returning,26.35,8,372.42
+2024-05-20,Summer,Facebook,Premium,Returning,68.77,1,96.22
+2024-05-21,Summer,Referrals,Discounted,New,97.66,7,469.37
+2024-05-21,Summer,Flyers,Discounted,New,72.58,1,80.09
+2024-05-21,Summer,Referrals,Standard,New,29.69,5,464.46
+2024-05-21,Summer,Referrals,Premium,Returning,84.91,1,51.25
+2024-05-21,Summer,Flyers,Standard,Returning,70.89,1,54.31
+2024-05-21,Summer,Facebook,Standard,Returning,78.78,1,67.12
+2024-05-22,Summer,Google Ads,Standard,Returning,91.17,1,80.92
+2024-05-22,Summer,Instagram,Premium,Returning,93.76,4,209.06
+2024-05-22,Summer,Facebook,Standard,Returning,73.11,1,93.68
+2024-05-22,Summer,Google Ads,Premium,New,10.72,6,308.3
+2024-05-22,Summer,Facebook,Standard,Returning,98.4,8,508.85
+2024-05-22,Summer,Google Ads,Premium,New,8.11,8,544.89
+2024-05-22,Summer,Facebook,Premium,Returning,72.16,6,94.28
+2024-05-23,Summer,Referrals,Premium,Returning,50.13,5,494.47
+2024-05-23,Summer,Flyers,Standard,Returning,9.86,0,0.0
+2024-05-23,Summer,Flyers,Standard,Returning,22.57,0,0.0
+2024-05-23,Summer,Flyers,Premium,New,57.3,3,154.45
+2024-05-23,Summer,Instagram,Discounted,Returning,95.91,4,66.19
+2024-05-24,Summer,Flyers,Standard,Returning,67.36,0,0.0
+2024-05-24,Summer,Facebook,Discounted,Returning,76.67,5,480.03
+2024-05-24,Summer,Referrals,Premium,New,21.13,7,519.41
+2024-05-24,Summer,Google Ads,Discounted,Returning,99.52,5,293.95
+2024-05-24,Summer,Referrals,Discounted,New,56.19,9,164.95
+2024-05-24,Summer,Google Ads,Standard,Returning,58.05,8,465.7
+2024-05-24,Summer,Google Ads,Premium,Returning,83.39,4,264.08
+2024-05-24,Summer,Flyers,Standard,Returning,56.08,1,25.76
+2024-05-24,Summer,Google Ads,Discounted,Returning,6.16,2,53.48
+2024-05-24,Summer,Flyers,Standard,Returning,41.09,5,290.01
+2024-05-25,Summer,Referrals,Premium,Returning,28.2,10,670.09
+2024-05-25,Summer,Facebook,Premium,New,37.01,10,742.09
+2024-05-25,Summer,Facebook,Premium,New,7.77,9,887.62
+2024-05-25,Summer,Instagram,Standard,Returning,91.09,6,161.96
+2024-05-25,Summer,Flyers,Premium,New,10.24,9,670.42
+2024-05-25,Summer,Flyers,Standard,Returning,81.38,8,611.27
+2024-05-26,Summer,Facebook,Discounted,New,33.46,0,0.0
+2024-05-26,Summer,Instagram,Premium,New,59.06,3,249.45
+2024-05-26,Summer,Referrals,Discounted,New,30.38,2,175.11
+2024-05-26,Summer,Facebook,Discounted,New,32.33,8,237.52
+2024-05-26,Summer,Instagram,Standard,Returning,38.29,0,0.0
+2024-05-26,Summer,Facebook,Premium,Returning,71.36,5,365.34
+2024-05-26,Summer,Referrals,Standard,New,37.31,0,0.0
+2024-05-27,Summer,Flyers,Standard,New,33.09,5,302.76
+2024-05-27,Summer,Facebook,Standard,New,14.85,4,200.65
+2024-05-27,Summer,Referrals,Premium,New,63.43,5,223.65
+2024-05-27,Summer,Facebook,Discounted,New,72.34,4,146.89
+2024-05-27,Summer,Instagram,Discounted,New,47.9,6,391.05
+2024-05-27,Summer,Facebook,Standard,Returning,72.52,2,146.86
+2024-05-27,Summer,Google Ads,Standard,New,72.87,3,243.43
+2024-05-28,Summer,Instagram,Discounted,Returning,20.32,8,464.66
+2024-05-28,Summer,Google Ads,Discounted,Returning,7.66,9,872.95
+2024-05-28,Summer,Facebook,Premium,New,98.13,3,98.36
+2024-05-28,Summer,Referrals,Standard,New,90.81,6,103.97
+2024-05-28,Summer,Referrals,Discounted,New,75.27,9,234.61
+2024-05-28,Summer,Flyers,Discounted,Returning,33.49,1,62.08
+2024-05-28,Summer,Flyers,Premium,New,35.99,8,300.62
+2024-05-29,Summer,Facebook,Standard,Returning,23.16,1,30.08
+2024-05-29,Summer,Flyers,Discounted,Returning,68.65,1,35.89
+2024-05-29,Summer,Referrals,Discounted,New,6.7,7,511.66
+2024-05-30,Summer,Flyers,Premium,Returning,73.33,5,377.2
+2024-05-30,Summer,Google Ads,Discounted,Returning,96.7,2,93.03
+2024-05-30,Summer,Flyers,Discounted,New,95.3,9,173.91
+2024-05-31,Summer,Referrals,Standard,Returning,65.28,6,300.71
+2024-05-31,Summer,Facebook,Discounted,Returning,64.52,4,253.71
+2024-05-31,Summer,Flyers,Standard,New,55.58,1,49.53
+2024-05-31,Summer,Facebook,Standard,Returning,59.49,10,565.66
+2024-05-31,Summer,Instagram,Standard,New,88.4,2,34.38
+2024-06-01,Fall,Instagram,Premium,Returning,21.48,2,30.7
+2024-06-02,Fall,Flyers,Premium,New,55.68,9,337.24
+2024-06-02,Fall,Google Ads,Standard,New,82.76,10,612.37
+2024-06-02,Fall,Google Ads,Discounted,Returning,73.15,6,306.31
+2024-06-03,Fall,Referrals,Standard,New,96.85,0,0.0
+2024-06-03,Fall,Facebook,Discounted,Returning,88.1,1,54.23
+2024-06-03,Fall,Facebook,Discounted,New,38.28,9,275.87
+2024-06-03,Fall,Facebook,Discounted,New,43.71,4,174.85
+2024-06-04,Fall,Google Ads,Premium,New,10.27,10,345.91
+2024-06-04,Fall,Flyers,Standard,New,58.03,3,159.0
+2024-06-04,Fall,Facebook,Premium,Returning,69.04,5,100.75
+2024-06-04,Fall,Facebook,Discounted,New,73.96,4,141.07
+2024-06-05,Fall,Instagram,Standard,Returning,23.37,8,207.48
+2024-06-06,Fall,Instagram,Standard,Returning,16.64,1,27.44
+2024-06-06,Fall,Referrals,Premium,Returning,34.51,3,119.8
+2024-06-06,Fall,Instagram,Premium,Returning,80.37,1,56.26
+2024-06-06,Fall,Instagram,Discounted,New,34.54,6,335.58
+2024-06-06,Fall,Referrals,Standard,Returning,17.77,10,777.12
+2024-06-06,Fall,Facebook,Standard,New,98.14,8,675.56
+2024-06-06,Fall,Flyers,Standard,Returning,76.3,4,187.1
+2024-06-07,Fall,Google Ads,Premium,Returning,55.4,7,142.33
+2024-06-07,Fall,Referrals,Discounted,New,12.59,3,106.82
+2024-06-08,Fall,Facebook,Premium,New,64.77,1,92.48
+2024-06-08,Fall,Google Ads,Discounted,New,5.9,9,640.48
+2024-06-08,Fall,Referrals,Standard,New,19.12,2,128.9
+2024-06-08,Fall,Google Ads,Standard,New,26.67,0,0.0
+2024-06-08,Fall,Instagram,Discounted,Returning,88.48,8,563.78
+2024-06-08,Fall,Facebook,Standard,New,57.41,7,461.38
+2024-06-08,Fall,Google Ads,Standard,New,82.74,8,360.49
+2024-06-08,Fall,Facebook,Standard,New,14.1,9,522.01
+2024-06-09,Fall,Google Ads,Premium,Returning,70.62,0,0.0
+2024-06-09,Fall,Google Ads,Discounted,Returning,10.12,6,443.21
+2024-06-09,Fall,Referrals,Standard,New,21.27,2,193.17
+2024-06-09,Fall,Facebook,Standard,Returning,61.06,3,182.74
+2024-06-09,Fall,Instagram,Discounted,New,24.48,8,233.8
+2024-06-09,Fall,Referrals,Standard,New,60.67,6,117.71
+2024-06-09,Fall,Facebook,Standard,New,20.79,10,411.5
+2024-06-09,Fall,Google Ads,Standard,New,63.52,0,0.0
+2024-06-10,Fall,Instagram,Standard,Returning,98.56,0,0.0
+2024-06-10,Fall,Google Ads,Premium,Returning,22.47,5,93.87
+2024-06-10,Fall,Facebook,Standard,Returning,44.26,8,307.33
+2024-06-10,Fall,Flyers,Discounted,New,96.63,8,735.37
+2024-06-11,Fall,Referrals,Premium,Returning,92.66,6,168.42
+2024-06-11,Fall,Instagram,Premium,New,51.21,1,26.31
+2024-06-11,Fall,Google Ads,Discounted,Returning,52.69,3,266.11
+2024-06-11,Fall,Google Ads,Discounted,New,24.04,10,233.78
+2024-06-11,Fall,Facebook,Standard,Returning,39.88,0,0.0
+2024-06-11,Fall,Flyers,Premium,Returning,65.15,8,754.21
+2024-06-11,Fall,Instagram,Premium,Returning,70.23,4,337.78
+2024-06-11,Fall,Flyers,Premium,New,36.79,2,134.4
+2024-06-12,Fall,Facebook,Premium,New,82.14,7,464.89
+2024-06-12,Fall,Flyers,Premium,New,15.39,9,846.53
+2024-06-13,Fall,Facebook,Discounted,Returning,22.87,5,449.53
+2024-06-13,Fall,Facebook,Standard,Returning,65.68,8,120.54
+2024-06-13,Fall,Referrals,Premium,Returning,93.99,4,193.63
+2024-06-13,Fall,Google Ads,Premium,New,76.44,8,387.64
+2024-06-13,Fall,Google Ads,Discounted,Returning,57.02,0,0.0
+2024-06-14,Fall,Google Ads,Standard,New,22.55,6,307.79
+2024-06-14,Fall,Instagram,Standard,New,97.29,6,230.51
+2024-06-14,Fall,Referrals,Discounted,New,76.55,2,138.11
+2024-06-14,Fall,Google Ads,Standard,New,72.27,9,557.12
+2024-06-14,Fall,Flyers,Standard,New,19.33,0,0.0
+2024-06-14,Fall,Instagram,Standard,Returning,72.18,3,139.52
+2024-06-15,Fall,Facebook,Premium,New,90.76,8,531.4
+2024-06-15,Fall,Instagram,Standard,New,82.89,10,263.07
+2024-06-15,Fall,Google Ads,Discounted,New,48.57,1,50.65
+2024-06-15,Fall,Facebook,Standard,Returning,97.93,4,144.87
+2024-06-15,Fall,Referrals,Standard,New,66.96,10,658.34
+2024-06-16,Fall,Flyers,Discounted,New,84.9,0,0.0
+2024-06-16,Fall,Referrals,Standard,Returning,71.96,9,511.25
+2024-06-16,Fall,Google Ads,Premium,New,12.97,1,24.24
+2024-06-16,Fall,Instagram,Standard,New,32.72,3,47.57
+2024-06-16,Fall,Flyers,Discounted,Returning,81.92,2,85.93
+2024-06-16,Fall,Facebook,Standard,New,42.32,7,282.51
+2024-06-17,Fall,Flyers,Standard,Returning,52.47,9,859.56
+2024-06-17,Fall,Flyers,Standard,Returning,82.61,8,492.02
+2024-06-17,Fall,Flyers,Discounted,Returning,12.53,0,0.0
+2024-06-17,Fall,Facebook,Discounted,Returning,82.75,9,202.27
+2024-06-17,Fall,Google Ads,Premium,Returning,95.52,3,257.92
+2024-06-17,Fall,Referrals,Premium,New,48.19,5,215.9
+2024-06-17,Fall,Google Ads,Standard,Returning,58.52,5,387.81
+2024-06-17,Fall,Google Ads,Discounted,Returning,89.69,6,164.77
+2024-06-18,Fall,Flyers,Standard,Returning,65.99,0,0.0
+2024-06-18,Fall,Referrals,Standard,Returning,93.09,0,0.0
+2024-06-18,Fall,Flyers,Discounted,New,87.01,8,124.67
+2024-06-18,Fall,Referrals,Discounted,New,62.56,6,599.83
+2024-06-18,Fall,Google Ads,Premium,New,6.29,6,467.37
+2024-06-18,Fall,Flyers,Standard,New,22.9,4,328.29
+2024-06-18,Fall,Facebook,Premium,Returning,32.7,8,426.75
+2024-06-18,Fall,Flyers,Standard,Returning,36.98,3,156.9
+2024-06-19,Fall,Facebook,Premium,Returning,26.93,10,689.77
+2024-06-19,Fall,Facebook,Standard,New,62.64,10,449.12
+2024-06-19,Fall,Facebook,Discounted,New,80.74,7,359.44
+2024-06-19,Fall,Referrals,Discounted,New,19.3,8,617.16
+2024-06-19,Fall,Referrals,Discounted,Returning,8.92,8,269.24
+2024-06-19,Fall,Google Ads,Standard,New,22.4,3,287.51
+2024-06-20,Fall,Flyers,Standard,New,55.34,10,822.49
+2024-06-20,Fall,Referrals,Discounted,Returning,72.76,8,133.61
+2024-06-20,Fall,Referrals,Discounted,Returning,79.82,9,799.12
+2024-06-20,Fall,Facebook,Premium,New,72.48,0,0.0
+2024-06-21,Fall,Facebook,Discounted,Returning,54.76,2,106.11
+2024-06-21,Fall,Flyers,Premium,Returning,86.11,1,82.55
+2024-06-21,Fall,Instagram,Standard,New,37.58,0,0.0
+2024-06-21,Fall,Referrals,Discounted,New,77.77,6,504.27
+2024-06-21,Fall,Facebook,Standard,New,98.83,0,0.0
+2024-06-21,Fall,Facebook,Discounted,Returning,60.11,8,503.8
+2024-06-21,Fall,Flyers,Discounted,New,33.53,6,112.8
+2024-06-21,Fall,Instagram,Discounted,Returning,71.46,7,117.6
+2024-06-22,Fall,Facebook,Discounted,Returning,6.13,6,227.35
+2024-06-22,Fall,Facebook,Standard,Returning,37.27,2,30.96
+2024-06-22,Fall,Referrals,Discounted,New,24.87,10,435.24
+2024-06-23,Fall,Flyers,Discounted,Returning,45.82,3,214.15
+2024-06-23,Fall,Referrals,Discounted,New,42.65,10,608.59
+2024-06-23,Fall,Instagram,Discounted,New,87.86,4,96.53
+2024-06-23,Fall,Flyers,Premium,Returning,43.76,3,211.14
+2024-06-23,Fall,Instagram,Standard,Returning,57.72,1,53.49
+2024-06-23,Fall,Referrals,Discounted,Returning,75.57,6,157.84
+2024-06-23,Fall,Referrals,Standard,Returning,52.31,6,546.62
+2024-06-24,Fall,Instagram,Premium,Returning,69.91,3,198.51
+2024-06-24,Fall,Google Ads,Discounted,Returning,60.49,8,431.03
+2024-06-24,Fall,Instagram,Standard,New,81.43,0,0.0
+2024-06-24,Fall,Facebook,Premium,New,42.94,6,532.95
+2024-06-24,Fall,Google Ads,Standard,New,71.37,9,224.54
+2024-06-25,Fall,Google Ads,Discounted,Returning,39.48,2,183.81
+2024-06-25,Fall,Instagram,Discounted,New,55.48,9,142.24
+2024-06-25,Fall,Instagram,Discounted,Returning,80.03,8,282.2
+2024-06-25,Fall,Facebook,Discounted,Returning,81.93,7,659.52
+2024-06-26,Fall,Google Ads,Discounted,Returning,61.71,10,483.64
+2024-06-26,Fall,Flyers,Premium,Returning,94.67,7,427.72
+2024-06-26,Fall,Flyers,Discounted,New,39.43,9,844.7
+2024-06-26,Fall,Instagram,Discounted,New,66.36,9,458.29
+2024-06-26,Fall,Referrals,Standard,New,8.38,8,592.35
+2024-06-26,Fall,Referrals,Discounted,New,78.13,7,663.22
+2024-06-27,Fall,Referrals,Standard,New,58.0,4,233.28
+2024-06-27,Fall,Flyers,Discounted,New,87.41,6,509.02
+2024-06-27,Fall,Facebook,Premium,New,33.74,2,94.33
+2024-06-27,Fall,Flyers,Discounted,New,52.1,4,316.05
+2024-06-27,Fall,Flyers,Standard,New,54.7,3,177.89
+2024-06-27,Fall,Google Ads,Standard,New,91.42,4,102.16
+2024-06-27,Fall,Facebook,Discounted,Returning,84.29,5,107.78
+2024-06-27,Fall,Instagram,Standard,Returning,78.94,9,204.39
+2024-06-28,Fall,Facebook,Discounted,New,74.08,9,589.51
+2024-06-28,Fall,Referrals,Standard,New,46.0,0,0.0
+2024-06-28,Fall,Instagram,Discounted,New,45.71,7,164.05
+2024-06-28,Fall,Referrals,Standard,Returning,57.68,10,537.55
+2024-06-28,Fall,Google Ads,Standard,Returning,83.51,7,579.4
+2024-06-29,Fall,Google Ads,Discounted,New,59.21,10,703.21
+2024-06-29,Fall,Facebook,Discounted,Returning,16.37,2,78.48
+2024-06-29,Fall,Instagram,Standard,Returning,78.93,9,460.89
+2024-06-29,Fall,Flyers,Standard,Returning,96.98,1,71.47
+2024-06-29,Fall,Referrals,Discounted,New,92.83,8,344.16
+2024-06-30,Fall,Google Ads,Standard,Returning,15.2,3,204.24
+2024-07-01,Fall,Referrals,Discounted,Returning,77.4,9,315.74
+2024-07-01,Fall,Flyers,Premium,New,19.92,10,465.23
+2024-07-01,Fall,Instagram,Standard,New,98.65,0,0.0
+2024-07-01,Fall,Facebook,Premium,New,92.61,8,165.71
+2024-07-01,Fall,Referrals,Premium,New,86.49,2,57.98
+2024-07-01,Fall,Instagram,Standard,Returning,34.57,4,351.59
+2024-07-01,Fall,Facebook,Discounted,New,15.56,7,573.05
+2024-07-02,Fall,Instagram,Discounted,New,5.37,10,583.04
+2024-07-02,Fall,Facebook,Standard,Returning,10.19,1,94.39
+2024-07-02,Fall,Google Ads,Discounted,Returning,22.28,4,225.56
+2024-07-02,Fall,Facebook,Standard,Returning,51.88,6,404.58
+2024-07-02,Fall,Referrals,Premium,Returning,85.34,4,292.53
+2024-07-02,Fall,Instagram,Premium,Returning,29.26,10,426.9
+2024-07-03,Fall,Instagram,Premium,New,7.71,1,24.4
+2024-07-03,Fall,Instagram,Discounted,New,64.18,8,762.91
+2024-07-03,Fall,Facebook,Discounted,Returning,43.71,2,104.55
+2024-07-03,Fall,Referrals,Standard,New,24.76,1,75.87
+2024-07-03,Fall,Instagram,Standard,Returning,36.25,8,303.74
+2024-07-03,Fall,Facebook,Standard,New,38.47,7,620.24
+2024-07-04,Fall,Flyers,Standard,Returning,14.45,2,94.69
+2024-07-04,Fall,Facebook,Standard,Returning,42.09,5,137.18
+2024-07-04,Fall,Flyers,Premium,New,91.2,9,816.92
+2024-07-04,Fall,Referrals,Discounted,Returning,75.78,3,234.31
+2024-07-04,Fall,Flyers,Discounted,New,56.72,1,80.56
+2024-07-04,Fall,Google Ads,Discounted,New,29.96,10,505.89
+2024-07-04,Fall,Referrals,Premium,New,34.88,1,84.9
+2024-07-04,Fall,Referrals,Discounted,New,42.08,6,319.64
+2024-07-05,Fall,Google Ads,Standard,New,79.39,7,369.94
+2024-07-05,Fall,Instagram,Discounted,New,92.64,1,40.07
+2024-07-05,Fall,Instagram,Discounted,New,65.95,9,605.56
+2024-07-05,Fall,Flyers,Discounted,New,6.98,0,0.0
+2024-07-05,Fall,Instagram,Standard,Returning,38.36,6,131.59
+2024-07-05,Fall,Facebook,Premium,Returning,44.61,1,74.75
+2024-07-06,Fall,Flyers,Discounted,Returning,48.78,5,436.03
+2024-07-06,Fall,Referrals,Discounted,Returning,52.02,0,0.0
+2024-07-07,Fall,Referrals,Standard,Returning,74.36,6,560.99
+2024-07-07,Fall,Referrals,Standard,New,7.4,1,88.29
+2024-07-07,Fall,Google Ads,Standard,New,20.9,1,45.39
+2024-07-08,Fall,Flyers,Premium,Returning,65.18,3,90.05
+2024-07-08,Fall,Flyers,Premium,New,83.2,7,581.17
+2024-07-08,Fall,Flyers,Discounted,Returning,18.75,0,0.0
+2024-07-08,Fall,Facebook,Discounted,New,76.36,1,94.9
+2024-07-08,Fall,Facebook,Discounted,Returning,13.17,6,353.07
+2024-07-08,Fall,Instagram,Discounted,New,35.8,4,169.32
+2024-07-09,Fall,Instagram,Discounted,Returning,84.87,9,839.24
+2024-07-09,Fall,Google Ads,Standard,Returning,49.21,8,721.06
+2024-07-09,Fall,Flyers,Discounted,Returning,8.57,10,596.06
+2024-07-09,Fall,Google Ads,Discounted,New,23.5,6,235.21
+2024-07-09,Fall,Facebook,Discounted,New,21.31,2,124.11
+2024-07-09,Fall,Instagram,Discounted,Returning,76.98,6,359.39
+2024-07-10,Fall,Instagram,Standard,Returning,70.53,5,452.5
+2024-07-10,Fall,Referrals,Discounted,Returning,63.69,9,524.98
+2024-07-10,Fall,Instagram,Premium,New,96.96,4,257.47
+2024-07-11,Fall,Facebook,Premium,Returning,86.96,10,553.13
+2024-07-11,Fall,Google Ads,Premium,Returning,5.21,7,624.36
+2024-07-11,Fall,Facebook,Standard,Returning,24.71,1,84.05
+2024-07-11,Fall,Instagram,Standard,New,31.55,5,445.15
+2024-07-11,Fall,Google Ads,Premium,New,89.49,3,142.72
+2024-07-11,Fall,Flyers,Discounted,New,54.33,0,0.0
+2024-07-11,Fall,Facebook,Standard,New,48.81,2,90.87
+2024-07-12,Fall,Instagram,Standard,Returning,85.6,4,266.4
+2024-07-12,Fall,Facebook,Standard,Returning,99.15,7,198.11
+2024-07-12,Fall,Referrals,Premium,New,41.93,8,688.78
+2024-07-12,Fall,Google Ads,Discounted,Returning,37.83,5,239.63
+2024-07-12,Fall,Flyers,Standard,New,99.28,3,116.84
+2024-07-13,Fall,Facebook,Standard,New,26.09,4,300.6
+2024-07-13,Fall,Google Ads,Premium,New,21.34,0,0.0
+2024-07-13,Fall,Google Ads,Standard,New,84.16,1,41.28
+2024-07-13,Fall,Referrals,Discounted,New,70.22,7,175.51
+2024-07-14,Fall,Referrals,Premium,New,28.4,2,71.05
+2024-07-14,Fall,Instagram,Standard,Returning,47.99,2,165.99
+2024-07-15,Fall,Instagram,Discounted,Returning,58.84,5,202.49
+2024-07-15,Fall,Facebook,Discounted,Returning,50.95,1,51.6
+2024-07-15,Fall,Instagram,Discounted,Returning,40.35,5,79.09
+2024-07-15,Fall,Referrals,Discounted,Returning,34.85,3,281.21
+2024-07-15,Fall,Google Ads,Premium,Returning,17.68,8,153.94
+2024-07-15,Fall,Instagram,Premium,Returning,5.52,6,427.54
+2024-07-15,Fall,Facebook,Premium,New,58.78,10,586.14
+2024-07-15,Fall,Facebook,Standard,New,14.1,8,466.53
+2024-07-16,Fall,Instagram,Discounted,New,96.97,6,406.04
+2024-07-16,Fall,Google Ads,Discounted,New,72.02,10,506.33
+2024-07-17,Fall,Flyers,Discounted,New,30.78,6,180.28
+2024-07-17,Fall,Facebook,Premium,Returning,50.75,1,52.14
+2024-07-17,Fall,Instagram,Discounted,Returning,32.03,5,356.44
+2024-07-17,Fall,Referrals,Premium,New,42.68,2,154.94
+2024-07-17,Fall,Referrals,Premium,Returning,32.89,3,128.26
+2024-07-17,Fall,Referrals,Standard,Returning,97.29,3,113.75
+2024-07-17,Fall,Referrals,Premium,Returning,55.88,7,372.2
+2024-07-17,Fall,Instagram,Premium,Returning,70.93,6,309.3
+2024-07-18,Fall,Google Ads,Premium,Returning,61.62,9,297.0
+2024-07-18,Fall,Flyers,Standard,New,52.07,1,33.42
+2024-07-18,Fall,Referrals,Discounted,Returning,38.76,7,584.97
+2024-07-18,Fall,Flyers,Premium,New,81.85,7,640.47
+2024-07-18,Fall,Google Ads,Discounted,Returning,23.3,3,267.98
+2024-07-19,Fall,Instagram,Discounted,Returning,86.37,9,239.14
+2024-07-19,Fall,Flyers,Standard,Returning,81.24,5,233.38
+2024-07-19,Fall,Google Ads,Discounted,New,16.29,1,29.44
+2024-07-19,Fall,Referrals,Standard,New,64.23,1,98.67
+2024-07-19,Fall,Referrals,Standard,New,74.88,4,137.24
+2024-07-19,Fall,Referrals,Standard,New,22.0,2,102.39
+2024-07-19,Fall,Flyers,Premium,Returning,71.19,1,53.73
+2024-07-19,Fall,Instagram,Standard,Returning,63.0,7,180.56
+2024-07-19,Fall,Facebook,Standard,Returning,53.83,9,465.45
+2024-07-19,Fall,Flyers,Premium,Returning,65.67,9,478.68
+2024-07-19,Fall,Facebook,Premium,New,41.03,5,267.92
+2024-07-20,Fall,Instagram,Standard,Returning,19.84,4,309.76
+2024-07-20,Fall,Flyers,Discounted,New,24.41,0,0.0
+2024-07-20,Fall,Instagram,Premium,New,76.75,0,0.0
+2024-07-20,Fall,Facebook,Premium,New,8.17,3,106.75
+2024-07-20,Fall,Facebook,Premium,New,11.0,10,944.94
+2024-07-21,Fall,Flyers,Premium,Returning,75.65,9,379.61
+2024-07-21,Fall,Instagram,Premium,New,30.19,10,511.67
+2024-07-21,Fall,Referrals,Premium,New,47.81,6,302.24
+2024-07-21,Fall,Instagram,Discounted,New,67.39,6,411.1
+2024-07-21,Fall,Google Ads,Standard,New,35.18,8,361.0
+2024-07-22,Fall,Google Ads,Premium,New,82.49,0,0.0
+2024-07-22,Fall,Referrals,Premium,Returning,90.79,10,708.01
+2024-07-22,Fall,Instagram,Premium,New,63.03,2,162.21
+2024-07-23,Fall,Flyers,Premium,Returning,61.17,5,77.44
+2024-07-23,Fall,Facebook,Discounted,Returning,72.7,7,375.15
+2024-07-23,Fall,Instagram,Standard,New,79.53,5,298.4
+2024-07-23,Fall,Flyers,Premium,Returning,28.69,2,156.9
+2024-07-23,Fall,Google Ads,Premium,Returning,41.59,8,353.29
+2024-07-24,Fall,Instagram,Premium,Returning,71.75,3,145.17
+2024-07-24,Fall,Google Ads,Discounted,New,85.06,5,356.81
+2024-07-24,Fall,Flyers,Discounted,Returning,70.23,7,283.13
+2024-07-25,Fall,Referrals,Discounted,New,18.65,1,79.04
+2024-07-25,Fall,Referrals,Premium,Returning,24.41,7,409.33
+2024-07-25,Fall,Referrals,Discounted,Returning,13.36,4,222.09
+2024-07-25,Fall,Facebook,Premium,New,87.75,6,376.69
+2024-07-25,Fall,Google Ads,Standard,Returning,7.18,10,906.02
+2024-07-25,Fall,Facebook,Standard,New,85.27,7,393.97
+2024-07-26,Fall,Instagram,Discounted,New,39.39,8,195.87
+2024-07-26,Fall,Referrals,Standard,New,71.25,10,938.59
+2024-07-26,Fall,Instagram,Premium,Returning,75.59,4,279.0
+2024-07-26,Fall,Referrals,Premium,New,87.16,6,153.17
+2024-07-27,Fall,Flyers,Premium,New,75.75,3,113.48
+2024-07-27,Fall,Flyers,Premium,New,87.82,9,580.87
+2024-07-27,Fall,Google Ads,Standard,Returning,89.13,4,288.04
+2024-07-27,Fall,Instagram,Discounted,New,45.04,4,314.62
+2024-07-27,Fall,Facebook,Discounted,New,75.17,2,161.84
+2024-07-27,Fall,Flyers,Discounted,Returning,67.37,3,266.14
+2024-07-27,Fall,Instagram,Standard,Returning,13.18,9,333.9
+2024-07-28,Fall,Google Ads,Discounted,New,38.72,0,0.0
+2024-07-28,Fall,Google Ads,Standard,Returning,46.85,10,372.87
+2024-07-29,Fall,Facebook,Discounted,Returning,31.06,6,247.29
+2024-07-29,Fall,Facebook,Standard,New,18.91,1,81.84
+2024-07-29,Fall,Instagram,Discounted,New,48.29,9,589.51
+2024-07-30,Fall,Referrals,Standard,Returning,48.26,1,83.08
+2024-07-30,Fall,Instagram,Premium,New,6.02,5,165.63
+2024-07-30,Fall,Referrals,Standard,New,34.64,6,331.0
+2024-07-30,Fall,Referrals,Premium,New,8.16,0,0.0
+2024-07-30,Fall,Instagram,Premium,New,10.64,6,114.22
+2024-07-30,Fall,Referrals,Discounted,New,95.99,7,559.83
+2024-07-30,Fall,Referrals,Discounted,Returning,24.0,4,197.27
+2024-07-30,Fall,Referrals,Standard,Returning,20.08,10,809.2
+2024-07-30,Fall,Google Ads,Premium,New,50.49,0,0.0
+2024-07-31,Fall,Referrals,Premium,Returning,13.48,2,45.01
+2024-07-31,Fall,Instagram,Standard,New,67.63,7,669.82
+2024-07-31,Fall,Flyers,Standard,Returning,53.4,4,293.46
+2024-07-31,Fall,Instagram,Premium,New,24.55,2,128.93
+2024-07-31,Fall,Facebook,Premium,New,21.56,7,457.31
+2024-08-01,Fall,Facebook,Discounted,New,83.5,4,80.05
+2024-08-01,Fall,Instagram,Discounted,Returning,23.24,10,731.02
+2024-08-01,Fall,Google Ads,Discounted,New,15.21,7,541.61
+2024-08-01,Fall,Instagram,Standard,Returning,17.71,5,436.5
+2024-08-02,Fall,Flyers,Discounted,Returning,15.49,4,173.84
+2024-08-02,Fall,Instagram,Premium,Returning,69.49,9,361.06
+2024-08-02,Fall,Referrals,Discounted,Returning,9.68,4,196.75
+2024-08-02,Fall,Google Ads,Discounted,Returning,16.05,3,175.6
+2024-08-02,Fall,Facebook,Discounted,Returning,49.0,4,234.99
+2024-08-02,Fall,Google Ads,Standard,New,52.66,9,144.18
+2024-08-02,Fall,Referrals,Premium,New,45.76,9,270.47
+2024-08-02,Fall,Flyers,Discounted,New,15.1,4,78.78
+2024-08-03,Fall,Facebook,Standard,New,37.36,5,138.26
+2024-08-03,Fall,Facebook,Premium,New,26.05,10,843.13
+2024-08-03,Fall,Instagram,Discounted,Returning,38.73,9,641.84
+2024-08-03,Fall,Facebook,Discounted,New,26.96,3,247.58
+2024-08-04,Fall,Flyers,Premium,Returning,86.36,4,224.4
+2024-08-04,Fall,Referrals,Discounted,Returning,75.78,7,400.49
+2024-08-04,Fall,Flyers,Discounted,Returning,52.82,1,83.41
+2024-08-04,Fall,Google Ads,Premium,Returning,56.08,4,242.49
+2024-08-05,Fall,Facebook,Discounted,New,33.77,10,599.3
+2024-08-05,Fall,Instagram,Discounted,New,90.83,0,0.0
+2024-08-05,Fall,Instagram,Premium,Returning,80.9,6,201.78
+2024-08-06,Fall,Referrals,Discounted,Returning,48.75,6,549.63
+2024-08-06,Fall,Google Ads,Standard,New,66.13,9,615.29
+2024-08-06,Fall,Google Ads,Discounted,New,28.95,8,254.56
+2024-08-06,Fall,Facebook,Standard,New,25.59,4,177.74
+2024-08-06,Fall,Instagram,Discounted,Returning,58.0,2,180.74
+2024-08-07,Fall,Google Ads,Premium,Returning,73.29,3,45.78
+2024-08-07,Fall,Google Ads,Premium,New,11.83,8,120.46
+2024-08-07,Fall,Google Ads,Premium,Returning,41.95,8,238.52
+2024-08-07,Fall,Google Ads,Premium,Returning,6.15,10,808.58
+2024-08-07,Fall,Flyers,Discounted,New,58.63,0,0.0
+2024-08-07,Fall,Referrals,Discounted,New,32.17,4,84.06
+2024-08-07,Fall,Referrals,Standard,New,96.23,1,98.59
+2024-08-07,Fall,Flyers,Discounted,Returning,99.84,5,356.63
+2024-08-08,Fall,Instagram,Discounted,New,26.06,2,91.77
+2024-08-08,Fall,Google Ads,Premium,New,16.72,1,89.72
+2024-08-08,Fall,Flyers,Discounted,New,87.64,8,168.99
+2024-08-08,Fall,Referrals,Premium,Returning,68.41,4,329.44
+2024-08-08,Fall,Facebook,Discounted,Returning,6.28,10,873.3
+2024-08-08,Fall,Google Ads,Discounted,Returning,41.61,7,456.94
+2024-08-08,Fall,Facebook,Discounted,New,15.44,0,0.0
+2024-08-09,Fall,Google Ads,Discounted,Returning,70.03,7,484.55
+2024-08-09,Fall,Instagram,Standard,New,67.19,9,420.38
+2024-08-09,Fall,Google Ads,Standard,Returning,21.95,3,170.64
+2024-08-09,Fall,Flyers,Standard,New,94.67,7,477.49
+2024-08-09,Fall,Flyers,Standard,New,49.95,10,254.95
+2024-08-09,Fall,Flyers,Discounted,Returning,5.06,2,120.42
+2024-08-09,Fall,Referrals,Standard,Returning,10.89,2,37.7
+2024-08-10,Fall,Flyers,Premium,New,89.71,7,306.06
+2024-08-10,Fall,Flyers,Discounted,Returning,72.45,5,429.99
+2024-08-10,Fall,Referrals,Discounted,New,17.33,2,162.56
+2024-08-10,Fall,Google Ads,Premium,New,91.94,1,81.45
+2024-08-10,Fall,Facebook,Premium,Returning,47.09,7,485.36
+2024-08-10,Fall,Referrals,Premium,Returning,98.22,9,509.06
+2024-08-11,Fall,Google Ads,Premium,Returning,39.19,7,507.53
+2024-08-11,Fall,Instagram,Discounted,Returning,30.63,1,58.95
+2024-08-11,Fall,Google Ads,Discounted,New,28.2,10,644.91
+2024-08-11,Fall,Facebook,Standard,Returning,59.44,5,81.44
+2024-08-12,Fall,Referrals,Discounted,New,30.16,4,154.14
+2024-08-12,Fall,Instagram,Standard,New,14.73,4,119.61
+2024-08-12,Fall,Referrals,Discounted,Returning,30.68,6,437.63
+2024-08-12,Fall,Google Ads,Discounted,New,95.64,6,530.13
+2024-08-12,Fall,Facebook,Standard,New,60.21,9,150.96
+2024-08-12,Fall,Facebook,Premium,Returning,6.31,2,199.12
+2024-08-12,Fall,Flyers,Premium,New,14.3,6,195.36
+2024-08-12,Fall,Facebook,Premium,Returning,65.41,0,0.0
+2024-08-13,Fall,Google Ads,Premium,Returning,41.55,3,91.78
+2024-08-13,Fall,Instagram,Discounted,Returning,37.86,8,703.64
+2024-08-13,Fall,Facebook,Standard,Returning,16.33,5,296.26
+2024-08-13,Fall,Facebook,Standard,New,69.28,1,70.37
+2024-08-15,Fall,Instagram,Discounted,Returning,99.73,0,0.0
+2024-08-15,Fall,Instagram,Discounted,Returning,14.95,5,220.95
+2024-08-16,Fall,Google Ads,Premium,New,72.49,3,152.03
+2024-08-16,Fall,Google Ads,Standard,New,45.93,1,28.05
+2024-08-17,Fall,Flyers,Premium,New,85.15,4,80.23
+2024-08-17,Fall,Instagram,Standard,New,6.83,10,849.39
+2024-08-17,Fall,Instagram,Discounted,Returning,37.76,2,192.4
+2024-08-17,Fall,Referrals,Discounted,New,56.68,7,508.24
+2024-08-17,Fall,Facebook,Premium,Returning,11.77,10,949.62
+2024-08-18,Fall,Referrals,Discounted,Returning,23.51,6,294.35
+2024-08-18,Fall,Referrals,Premium,Returning,27.99,10,755.01
+2024-08-18,Fall,Google Ads,Standard,Returning,85.12,2,137.26
+2024-08-18,Fall,Flyers,Discounted,New,72.17,7,151.16
+2024-08-18,Fall,Flyers,Premium,Returning,23.77,2,170.33
+2024-08-19,Fall,Instagram,Standard,Returning,57.05,4,246.95
+2024-08-19,Fall,Google Ads,Discounted,New,67.22,4,118.03
+2024-08-19,Fall,Facebook,Premium,New,6.13,1,36.91
+2024-08-19,Fall,Google Ads,Premium,New,20.48,10,259.08
+2024-08-19,Fall,Facebook,Discounted,Returning,47.12,0,0.0
+2024-08-19,Fall,Flyers,Standard,Returning,88.4,1,53.68
+2024-08-20,Fall,Instagram,Premium,New,61.59,2,185.02
+2024-08-20,Fall,Referrals,Standard,Returning,22.37,10,411.88
+2024-08-20,Fall,Google Ads,Premium,New,98.86,10,523.02
+2024-08-21,Fall,Flyers,Standard,New,70.39,1,96.43
+2024-08-21,Fall,Flyers,Standard,Returning,65.83,8,516.31
+2024-08-21,Fall,Flyers,Standard,New,69.22,2,69.28
+2024-08-21,Fall,Flyers,Discounted,Returning,68.55,0,0.0
+2024-08-22,Fall,Facebook,Discounted,New,50.36,7,412.68
+2024-08-22,Fall,Google Ads,Premium,New,56.4,9,841.85
+2024-08-22,Fall,Google Ads,Discounted,Returning,15.78,5,253.12
+2024-08-22,Fall,Google Ads,Premium,New,91.1,5,305.01
+2024-08-22,Fall,Referrals,Discounted,New,37.54,3,215.39
+2024-08-22,Fall,Referrals,Standard,Returning,23.91,3,152.23
+2024-08-22,Fall,Google Ads,Discounted,New,41.67,8,494.63
+2024-08-23,Fall,Referrals,Premium,Returning,61.76,7,106.65
+2024-08-23,Fall,Referrals,Discounted,Returning,67.97,2,196.33
+2024-08-23,Fall,Google Ads,Discounted,New,7.03,2,103.56
+2024-08-24,Fall,Flyers,Discounted,New,39.63,2,110.49
+2024-08-24,Fall,Instagram,Premium,New,84.11,8,146.06
+2024-08-25,Fall,Referrals,Discounted,New,5.37,6,143.54
+2024-08-25,Fall,Facebook,Discounted,New,45.51,5,371.95
+2024-08-25,Fall,Referrals,Standard,New,50.95,10,866.39
+2024-08-25,Fall,Google Ads,Premium,Returning,92.08,10,743.54
+2024-08-25,Fall,Google Ads,Standard,Returning,66.09,2,44.22
+2024-08-25,Fall,Instagram,Premium,Returning,25.83,10,280.67
+2024-08-25,Fall,Google Ads,Premium,Returning,93.29,7,616.18
+2024-08-25,Fall,Facebook,Standard,Returning,70.45,7,129.59
+2024-08-25,Fall,Referrals,Standard,Returning,94.44,3,252.49
+2024-08-25,Fall,Instagram,Premium,New,99.04,0,0.0
+2024-08-26,Fall,Google Ads,Discounted,Returning,23.64,3,60.66
+2024-08-26,Fall,Instagram,Premium,New,90.53,1,86.94
+2024-08-26,Fall,Flyers,Standard,New,45.27,10,809.37
+2024-08-26,Fall,Google Ads,Discounted,Returning,79.68,2,192.12
+2024-08-27,Fall,Google Ads,Premium,Returning,20.19,10,880.0
+2024-08-27,Fall,Instagram,Discounted,New,25.52,4,88.61
+2024-08-27,Fall,Facebook,Standard,Returning,16.22,3,286.34
+2024-08-27,Fall,Flyers,Premium,New,62.34,9,675.71
+2024-08-27,Fall,Referrals,Discounted,Returning,74.58,6,111.45
+2024-08-27,Fall,Flyers,Standard,Returning,69.66,5,177.41
+2024-08-28,Fall,Facebook,Discounted,Returning,31.14,2,186.53
+2024-08-28,Fall,Google Ads,Discounted,Returning,81.21,7,649.6
+2024-08-28,Fall,Instagram,Discounted,New,85.44,9,200.61
+2024-08-29,Fall,Google Ads,Standard,New,9.48,0,0.0
+2024-08-29,Fall,Google Ads,Standard,Returning,22.15,5,459.92
+2024-08-29,Fall,Flyers,Standard,New,94.84,7,615.16
+2024-08-29,Fall,Referrals,Standard,Returning,7.7,2,72.76
+2024-08-29,Fall,Google Ads,Standard,New,12.61,5,459.99
+2024-08-30,Fall,Flyers,Premium,New,44.47,3,193.54
+2024-08-30,Fall,Instagram,Premium,New,76.97,1,21.2
+2024-08-30,Fall,Flyers,Premium,Returning,56.31,2,119.9
+2024-08-30,Fall,Flyers,Premium,New,97.25,5,495.61
+2024-08-30,Fall,Facebook,Premium,Returning,17.57,9,165.74
+2024-08-30,Fall,Flyers,Standard,Returning,71.45,2,57.07
+2024-08-30,Fall,Google Ads,Premium,Returning,66.64,1,31.19
+2024-08-30,Fall,Flyers,Premium,New,91.51,7,233.59
+2024-08-30,Fall,Google Ads,Discounted,Returning,99.98,1,54.15
+2024-08-30,Fall,Google Ads,Standard,Returning,15.91,5,79.47
+2024-08-30,Fall,Google Ads,Premium,Returning,62.36,3,154.75
+2024-08-30,Fall,Instagram,Premium,New,7.51,2,82.56
+2024-08-31,Fall,Google Ads,Standard,Returning,34.28,3,118.39
+2024-08-31,Fall,Google Ads,Premium,New,8.46,0,0.0
+2024-08-31,Fall,Facebook,Premium,New,93.52,7,508.47
+2024-08-31,Fall,Facebook,Premium,New,61.39,5,249.99
+2024-08-31,Fall,Instagram,Discounted,Returning,53.35,9,440.03
+2024-09-01,Winter,Google Ads,Discounted,New,98.07,0,0.0
+2024-09-01,Winter,Facebook,Discounted,Returning,95.51,5,472.76
+2024-09-01,Winter,Instagram,Standard,New,97.84,9,602.42
+2024-09-01,Winter,Flyers,Standard,New,9.66,5,198.79
+2024-09-01,Winter,Flyers,Standard,New,37.84,10,629.32
+2024-09-02,Winter,Instagram,Premium,Returning,42.1,8,783.66
+2024-09-02,Winter,Flyers,Standard,Returning,14.91,2,38.21
+2024-09-02,Winter,Flyers,Standard,New,90.78,2,129.42
+2024-09-02,Winter,Facebook,Premium,Returning,76.8,8,431.55
+2024-09-02,Winter,Google Ads,Premium,New,27.72,6,512.62
+2024-09-02,Winter,Referrals,Standard,Returning,70.52,7,371.77
+2024-09-02,Winter,Flyers,Discounted,Returning,20.53,7,363.45
+2024-09-02,Winter,Flyers,Discounted,Returning,75.24,0,0.0
+2024-09-03,Winter,Flyers,Discounted,New,5.49,8,365.71
+2024-09-03,Winter,Flyers,Standard,Returning,59.25,8,164.85
+2024-09-03,Winter,Facebook,Premium,New,24.8,6,348.86
+2024-09-03,Winter,Google Ads,Standard,New,24.63,7,596.86
+2024-09-03,Winter,Google Ads,Standard,Returning,87.09,0,0.0
+2024-09-03,Winter,Referrals,Premium,New,26.97,1,26.84
+2024-09-03,Winter,Facebook,Standard,New,58.54,10,384.55
+2024-09-03,Winter,Referrals,Standard,Returning,13.94,9,585.45
+2024-09-04,Winter,Referrals,Standard,Returning,13.26,6,518.68
+2024-09-04,Winter,Google Ads,Premium,Returning,59.17,6,143.5
+2024-09-04,Winter,Facebook,Premium,New,80.89,7,365.63
+2024-09-04,Winter,Referrals,Standard,Returning,39.4,2,59.48
+2024-09-04,Winter,Google Ads,Discounted,Returning,18.94,5,88.81
+2024-09-04,Winter,Flyers,Standard,Returning,53.72,0,0.0
+2024-09-04,Winter,Referrals,Premium,Returning,31.69,8,396.07
+2024-09-04,Winter,Flyers,Premium,New,57.23,9,385.26
+2024-09-04,Winter,Flyers,Premium,New,66.03,1,28.13
+2024-09-04,Winter,Google Ads,Premium,Returning,48.75,10,387.48
+2024-09-04,Winter,Referrals,Premium,New,59.4,10,850.66
+2024-09-05,Winter,Google Ads,Premium,Returning,35.14,8,709.84
+2024-09-05,Winter,Google Ads,Standard,Returning,80.24,5,467.18
+2024-09-05,Winter,Facebook,Premium,New,41.45,9,270.4
+2024-09-05,Winter,Instagram,Standard,Returning,44.67,2,67.98
+2024-09-05,Winter,Instagram,Standard,Returning,76.52,2,43.05
+2024-09-05,Winter,Google Ads,Premium,Returning,14.7,2,106.48
+2024-09-05,Winter,Google Ads,Premium,Returning,24.79,2,69.52
+2024-09-05,Winter,Flyers,Premium,Returning,98.25,5,180.19
+2024-09-05,Winter,Instagram,Premium,New,74.63,5,353.6
+2024-09-05,Winter,Facebook,Premium,New,95.85,8,691.85
+2024-09-05,Winter,Google Ads,Standard,New,25.05,6,319.26
+2024-09-05,Winter,Referrals,Premium,New,56.47,9,608.82
+2024-09-05,Winter,Referrals,Discounted,Returning,17.9,6,154.22
+2024-09-06,Winter,Flyers,Premium,New,46.33,2,137.96
+2024-09-06,Winter,Flyers,Premium,Returning,88.95,8,123.33
+2024-09-06,Winter,Flyers,Discounted,Returning,37.72,5,97.14
+2024-09-07,Winter,Instagram,Discounted,New,59.58,2,108.45
+2024-09-07,Winter,Instagram,Standard,New,55.2,10,844.15
+2024-09-07,Winter,Facebook,Standard,Returning,7.61,1,73.26
+2024-09-07,Winter,Google Ads,Standard,New,97.15,1,88.24
+2024-09-07,Winter,Instagram,Standard,New,33.95,2,67.29
+2024-09-07,Winter,Instagram,Premium,New,59.43,2,159.63
+2024-09-08,Winter,Facebook,Discounted,New,10.13,5,83.69
+2024-09-08,Winter,Google Ads,Discounted,Returning,90.1,9,891.38
+2024-09-08,Winter,Facebook,Premium,Returning,60.37,2,52.28
+2024-09-08,Winter,Facebook,Standard,New,58.85,6,460.68
+2024-09-08,Winter,Google Ads,Premium,New,31.09,5,330.4
+2024-09-08,Winter,Google Ads,Discounted,Returning,72.23,10,740.61
+2024-09-08,Winter,Instagram,Discounted,Returning,49.11,3,175.39
+2024-09-08,Winter,Referrals,Discounted,Returning,55.3,8,595.04
+2024-09-08,Winter,Flyers,Premium,New,98.62,3,176.53
+2024-09-09,Winter,Referrals,Standard,New,43.69,5,474.28
+2024-09-09,Winter,Instagram,Premium,New,85.88,5,122.77
+2024-09-09,Winter,Flyers,Discounted,New,88.55,9,653.83
+2024-09-09,Winter,Google Ads,Standard,Returning,31.33,7,422.49
+2024-09-09,Winter,Flyers,Premium,New,48.91,8,165.46
+2024-09-10,Winter,Flyers,Standard,Returning,74.19,1,50.42
+2024-09-10,Winter,Referrals,Standard,Returning,7.84,1,33.27
+2024-09-11,Winter,Facebook,Standard,Returning,90.05,5,344.68
+2024-09-11,Winter,Instagram,Standard,New,84.1,2,127.32
+2024-09-11,Winter,Flyers,Standard,New,11.45,1,32.27
+2024-09-11,Winter,Google Ads,Standard,Returning,73.01,1,81.37
+2024-09-11,Winter,Google Ads,Standard,New,63.78,6,236.35
+2024-09-11,Winter,Facebook,Premium,Returning,75.28,9,568.82
+2024-09-11,Winter,Instagram,Premium,New,22.73,10,230.84
+2024-09-11,Winter,Instagram,Premium,Returning,60.63,8,705.41
+2024-09-11,Winter,Facebook,Premium,New,82.51,7,475.03
+2024-09-12,Winter,Referrals,Premium,New,39.27,4,70.22
+2024-09-12,Winter,Flyers,Discounted,New,30.98,5,498.09
+2024-09-12,Winter,Referrals,Standard,Returning,83.96,5,341.58
+2024-09-12,Winter,Facebook,Standard,Returning,16.72,7,450.56
+2024-09-12,Winter,Google Ads,Standard,Returning,23.62,5,313.58
+2024-09-12,Winter,Referrals,Standard,New,10.41,1,65.53
+2024-09-12,Winter,Flyers,Discounted,New,25.86,0,0.0
+2024-09-13,Winter,Facebook,Discounted,New,77.19,0,0.0
+2024-09-14,Winter,Facebook,Discounted,Returning,16.1,3,155.6
+2024-09-14,Winter,Referrals,Premium,New,50.81,8,633.81
+2024-09-14,Winter,Flyers,Premium,New,21.44,10,770.54
+2024-09-14,Winter,Flyers,Standard,Returning,30.07,5,291.1
+2024-09-14,Winter,Flyers,Premium,New,35.81,2,62.77
+2024-09-14,Winter,Instagram,Standard,New,22.61,7,275.21
+2024-09-14,Winter,Instagram,Discounted,New,72.12,10,241.07
+2024-09-14,Winter,Google Ads,Discounted,Returning,92.96,7,120.68
+2024-09-14,Winter,Facebook,Discounted,New,48.94,6,231.84
+2024-09-14,Winter,Instagram,Premium,Returning,94.85,10,920.44
+2024-09-15,Winter,Facebook,Standard,Returning,22.08,6,365.63
+2024-09-15,Winter,Referrals,Standard,Returning,34.36,4,100.17
+2024-09-15,Winter,Google Ads,Discounted,New,70.69,3,200.92
+2024-09-15,Winter,Google Ads,Discounted,New,15.94,3,126.9
+2024-09-15,Winter,Instagram,Standard,New,34.25,6,138.1
+2024-09-16,Winter,Google Ads,Standard,Returning,45.5,5,413.59
+2024-09-16,Winter,Instagram,Discounted,Returning,53.16,3,201.04
+2024-09-16,Winter,Google Ads,Premium,Returning,29.66,7,673.32
+2024-09-17,Winter,Instagram,Standard,New,21.26,5,492.47
+2024-09-17,Winter,Referrals,Discounted,Returning,30.43,9,322.97
+2024-09-17,Winter,Facebook,Premium,Returning,44.04,1,66.01
+2024-09-18,Winter,Google Ads,Discounted,Returning,49.88,6,404.22
+2024-09-18,Winter,Google Ads,Standard,Returning,54.34,8,637.76
+2024-09-18,Winter,Google Ads,Premium,New,92.77,9,188.14
+2024-09-18,Winter,Instagram,Premium,New,13.01,6,487.14
+2024-09-19,Winter,Google Ads,Premium,New,93.0,10,676.08
+2024-09-19,Winter,Flyers,Standard,Returning,26.58,3,130.61
+2024-09-19,Winter,Flyers,Standard,New,53.29,3,136.41
+2024-09-19,Winter,Instagram,Standard,New,67.22,3,296.99
+2024-09-19,Winter,Facebook,Premium,New,95.63,3,241.4
+2024-09-19,Winter,Facebook,Standard,New,43.75,5,98.86
+2024-09-20,Winter,Facebook,Standard,New,85.46,1,44.54
+2024-09-20,Winter,Google Ads,Discounted,New,49.06,3,197.58
+2024-09-21,Winter,Facebook,Discounted,Returning,44.53,2,118.21
+2024-09-21,Winter,Referrals,Discounted,Returning,92.74,4,319.02
+2024-09-21,Winter,Google Ads,Premium,Returning,89.89,0,0.0
+2024-09-21,Winter,Instagram,Discounted,New,97.98,1,87.9
+2024-09-22,Winter,Instagram,Standard,New,45.34,6,580.36
+2024-09-22,Winter,Referrals,Standard,New,34.58,0,0.0
+2024-09-22,Winter,Flyers,Premium,Returning,73.02,3,154.65
+2024-09-22,Winter,Flyers,Standard,Returning,8.7,6,427.08
+2024-09-22,Winter,Facebook,Premium,Returning,29.8,8,165.91
+2024-09-23,Winter,Flyers,Discounted,Returning,88.35,4,212.08
+2024-09-23,Winter,Google Ads,Discounted,New,99.42,6,523.02
+2024-09-23,Winter,Facebook,Premium,Returning,34.27,9,695.43
+2024-09-23,Winter,Facebook,Standard,New,88.93,2,77.14
+2024-09-23,Winter,Flyers,Standard,New,67.12,0,0.0
+2024-09-24,Winter,Facebook,Premium,New,98.4,8,163.81
+2024-09-24,Winter,Facebook,Premium,New,38.28,9,731.13
+2024-09-24,Winter,Instagram,Discounted,Returning,97.87,9,765.83
+2024-09-24,Winter,Facebook,Standard,Returning,11.7,9,485.13
+2024-09-24,Winter,Referrals,Premium,Returning,60.05,6,470.51
+2024-09-24,Winter,Google Ads,Premium,New,18.87,7,696.46
+2024-09-24,Winter,Referrals,Standard,New,52.39,6,186.79
+2024-09-25,Winter,Referrals,Standard,New,23.18,4,260.92
+2024-09-25,Winter,Flyers,Premium,New,19.89,6,160.32
+2024-09-25,Winter,Referrals,Premium,Returning,54.82,6,297.38
+2024-09-25,Winter,Facebook,Premium,Returning,53.79,2,73.22
+2024-09-25,Winter,Instagram,Premium,New,10.62,2,199.8
+2024-09-25,Winter,Instagram,Premium,New,25.13,7,142.65
+2024-09-25,Winter,Flyers,Premium,New,88.55,10,273.53
+2024-09-25,Winter,Google Ads,Standard,Returning,8.52,9,818.98
+2024-09-25,Winter,Flyers,Discounted,New,89.45,8,612.24
+2024-09-25,Winter,Google Ads,Standard,New,11.44,8,515.59
+2024-09-25,Winter,Facebook,Standard,Returning,67.79,4,80.97
+2024-09-26,Winter,Flyers,Premium,New,86.42,1,99.34
+2024-09-26,Winter,Google Ads,Premium,New,29.4,8,613.61
+2024-09-26,Winter,Google Ads,Discounted,Returning,28.26,5,90.53
+2024-09-26,Winter,Referrals,Premium,New,52.67,9,505.22
+2024-09-27,Winter,Referrals,Discounted,Returning,16.51,5,477.88
+2024-09-27,Winter,Instagram,Standard,New,37.0,8,530.52
+2024-09-27,Winter,Facebook,Premium,New,88.19,8,306.13
+2024-09-27,Winter,Facebook,Premium,Returning,18.43,1,50.75
+2024-09-27,Winter,Referrals,Standard,Returning,24.98,8,615.07
+2024-09-28,Winter,Flyers,Discounted,Returning,35.58,5,147.12
+2024-09-28,Winter,Flyers,Discounted,New,41.54,10,434.73
+2024-09-28,Winter,Google Ads,Premium,Returning,88.45,4,64.07
+2024-09-28,Winter,Facebook,Premium,Returning,87.05,7,692.8
+2024-09-29,Winter,Flyers,Discounted,New,55.14,5,90.99
+2024-09-29,Winter,Facebook,Premium,New,17.52,0,0.0
+2024-09-29,Winter,Google Ads,Standard,Returning,26.55,3,299.64
+2024-09-29,Winter,Instagram,Premium,New,54.4,6,316.17
+2024-09-29,Winter,Facebook,Discounted,Returning,58.85,6,335.96
+2024-09-29,Winter,Google Ads,Standard,New,44.63,5,266.75
+2024-09-29,Winter,Instagram,Standard,New,43.59,7,172.0
+2024-09-29,Winter,Flyers,Standard,Returning,74.51,3,130.12
+2024-09-29,Winter,Instagram,Premium,New,85.78,8,646.26
+2024-09-29,Winter,Instagram,Discounted,Returning,44.06,7,218.08
+2024-09-29,Winter,Flyers,Standard,Returning,49.16,3,264.29
+2024-09-29,Winter,Flyers,Premium,New,9.95,6,403.94
+2024-09-30,Winter,Referrals,Premium,New,50.97,2,181.18
+2024-09-30,Winter,Google Ads,Discounted,Returning,75.75,0,0.0
+2024-09-30,Winter,Facebook,Standard,Returning,61.94,5,421.67
+2024-09-30,Winter,Facebook,Premium,New,21.28,2,172.34
+2024-09-30,Winter,Facebook,Premium,New,51.14,3,102.84
+2024-10-01,Winter,Google Ads,Premium,New,70.35,4,218.05
+2024-10-01,Winter,Flyers,Discounted,New,70.76,7,268.91
+2024-10-01,Winter,Flyers,Premium,Returning,45.2,0,0.0
+2024-10-01,Winter,Flyers,Premium,New,57.41,3,76.6
+2024-10-01,Winter,Facebook,Discounted,Returning,59.92,7,315.01
+2024-10-01,Winter,Instagram,Discounted,New,30.44,4,133.96
+2024-10-02,Winter,Facebook,Standard,New,61.67,10,536.32
+2024-10-02,Winter,Referrals,Standard,New,30.08,5,221.74
+2024-10-02,Winter,Flyers,Standard,New,97.34,6,347.3
+2024-10-02,Winter,Instagram,Discounted,New,36.44,9,688.97
+2024-10-02,Winter,Referrals,Standard,New,81.87,4,74.07
+2024-10-02,Winter,Google Ads,Standard,New,8.5,3,127.87
+2024-10-02,Winter,Google Ads,Discounted,New,69.48,8,254.98
+2024-10-02,Winter,Flyers,Premium,New,70.38,8,293.13
+2024-10-02,Winter,Referrals,Standard,New,17.67,0,0.0
+2024-10-02,Winter,Flyers,Standard,New,61.99,2,164.17
+2024-10-02,Winter,Facebook,Discounted,New,74.11,7,230.33
+2024-10-03,Winter,Referrals,Discounted,New,68.28,8,302.58
+2024-10-03,Winter,Flyers,Discounted,New,94.2,2,46.51
+2024-10-03,Winter,Instagram,Premium,Returning,69.71,8,561.43
+2024-10-03,Winter,Flyers,Premium,New,27.73,9,189.79
+2024-10-03,Winter,Google Ads,Discounted,Returning,43.79,9,853.49
+2024-10-03,Winter,Instagram,Premium,Returning,90.2,4,276.36
+2024-10-03,Winter,Referrals,Discounted,New,8.81,5,466.12
+2024-10-04,Winter,Flyers,Standard,Returning,73.48,4,124.0
+2024-10-04,Winter,Referrals,Premium,New,68.34,5,82.51
+2024-10-04,Winter,Google Ads,Discounted,New,60.76,8,485.19
+2024-10-04,Winter,Facebook,Discounted,New,19.25,6,579.52
+2024-10-04,Winter,Instagram,Standard,New,85.07,6,550.76
+2024-10-04,Winter,Referrals,Standard,Returning,27.34,2,113.54
+2024-10-04,Winter,Instagram,Standard,Returning,35.42,6,123.4
+2024-10-05,Winter,Instagram,Standard,New,58.23,6,521.53
+2024-10-05,Winter,Referrals,Standard,Returning,52.96,4,227.63
+2024-10-05,Winter,Referrals,Standard,New,41.98,9,595.0
+2024-10-05,Winter,Facebook,Standard,Returning,11.16,2,140.96
+2024-10-05,Winter,Flyers,Premium,Returning,15.41,3,254.94
+2024-10-05,Winter,Referrals,Discounted,Returning,60.1,3,133.26
+2024-10-05,Winter,Flyers,Standard,Returning,60.02,1,31.64
+2024-10-05,Winter,Referrals,Discounted,Returning,88.66,4,365.35
+2024-10-05,Winter,Flyers,Premium,New,11.88,1,35.81
+2024-10-06,Winter,Referrals,Standard,Returning,21.03,4,171.86
+2024-10-06,Winter,Referrals,Premium,New,59.56,8,677.29
+2024-10-06,Winter,Instagram,Standard,Returning,10.76,9,588.97
+2024-10-06,Winter,Google Ads,Premium,Returning,85.93,0,0.0
+2024-10-06,Winter,Facebook,Discounted,Returning,18.65,5,366.09
+2024-10-06,Winter,Instagram,Discounted,Returning,53.42,0,0.0
+2024-10-07,Winter,Flyers,Discounted,Returning,37.57,0,0.0
+2024-10-07,Winter,Instagram,Premium,Returning,74.93,2,103.61
+2024-10-08,Winter,Facebook,Premium,Returning,91.8,1,75.4
+2024-10-08,Winter,Flyers,Discounted,Returning,5.63,5,449.81
+2024-10-08,Winter,Google Ads,Premium,Returning,33.4,9,797.59
+2024-10-08,Winter,Referrals,Discounted,Returning,7.88,10,171.09
+2024-10-08,Winter,Flyers,Discounted,New,5.86,6,441.25
+2024-10-08,Winter,Facebook,Discounted,Returning,77.55,0,0.0
+2024-10-08,Winter,Facebook,Premium,Returning,76.98,5,445.39
+2024-10-08,Winter,Instagram,Discounted,Returning,78.6,10,435.86
+2024-10-09,Winter,Instagram,Premium,New,44.66,3,251.46
+2024-10-09,Winter,Facebook,Premium,Returning,86.71,8,345.84
+2024-10-09,Winter,Flyers,Standard,Returning,24.49,8,224.07
+2024-10-09,Winter,Instagram,Discounted,New,53.27,3,49.53
+2024-10-10,Winter,Referrals,Standard,New,22.18,5,293.01
+2024-10-10,Winter,Google Ads,Premium,Returning,6.66,1,68.07
+2024-10-10,Winter,Referrals,Standard,Returning,13.92,2,91.58
+2024-10-10,Winter,Instagram,Premium,Returning,43.68,6,439.7
+2024-10-11,Winter,Referrals,Premium,New,78.02,3,233.67
+2024-10-11,Winter,Flyers,Standard,Returning,10.8,7,532.57
+2024-10-11,Winter,Referrals,Premium,New,67.34,4,276.99
+2024-10-12,Winter,Google Ads,Standard,New,14.31,0,0.0
+2024-10-12,Winter,Instagram,Discounted,Returning,57.44,0,0.0
+2024-10-12,Winter,Instagram,Discounted,New,15.17,7,112.3
+2024-10-12,Winter,Facebook,Premium,Returning,15.71,1,27.71
+2024-10-12,Winter,Google Ads,Standard,New,62.48,4,129.12
+2024-10-12,Winter,Referrals,Discounted,New,15.26,4,258.2
+2024-10-12,Winter,Facebook,Premium,Returning,96.99,9,828.03
+2024-10-13,Winter,Instagram,Standard,New,18.74,7,659.74
+2024-10-13,Winter,Flyers,Premium,New,67.01,7,322.17
+2024-10-13,Winter,Instagram,Premium,Returning,83.56,10,988.14
+2024-10-13,Winter,Instagram,Premium,New,38.99,3,98.93
+2024-10-13,Winter,Facebook,Premium,New,41.47,10,754.94
+2024-10-14,Winter,Flyers,Standard,Returning,56.29,10,523.73
+2024-10-14,Winter,Facebook,Standard,Returning,85.89,2,50.43
+2024-10-14,Winter,Flyers,Premium,New,54.65,2,155.5
+2024-10-14,Winter,Referrals,Discounted,New,66.63,0,0.0
+2024-10-15,Winter,Instagram,Premium,New,44.78,10,409.27
+2024-10-15,Winter,Facebook,Standard,Returning,65.69,3,153.32
+2024-10-15,Winter,Instagram,Discounted,New,68.52,10,246.29
+2024-10-16,Winter,Flyers,Premium,New,5.66,3,268.15
+2024-10-16,Winter,Facebook,Discounted,New,25.57,3,187.9
+2024-10-16,Winter,Referrals,Discounted,Returning,58.01,6,356.24
+2024-10-16,Winter,Referrals,Premium,New,95.33,9,891.7
+2024-10-16,Winter,Google Ads,Premium,New,73.65,7,554.17
+2024-10-16,Winter,Google Ads,Discounted,Returning,14.16,0,0.0
+2024-10-17,Winter,Flyers,Premium,New,77.93,10,362.49
+2024-10-17,Winter,Facebook,Premium,Returning,90.89,3,121.43
+2024-10-17,Winter,Referrals,Discounted,New,76.89,3,59.47
+2024-10-18,Winter,Flyers,Premium,Returning,70.96,7,156.83
+2024-10-18,Winter,Flyers,Discounted,Returning,25.52,5,154.23
+2024-10-18,Winter,Flyers,Standard,Returning,16.02,10,493.44
+2024-10-18,Winter,Flyers,Standard,New,90.54,8,471.25
+2024-10-18,Winter,Facebook,Premium,New,44.65,5,91.95
+2024-10-19,Winter,Referrals,Standard,Returning,91.18,2,95.54
+2024-10-19,Winter,Facebook,Standard,New,30.82,6,416.33
+2024-10-19,Winter,Google Ads,Premium,New,99.09,2,99.07
+2024-10-19,Winter,Instagram,Standard,New,93.82,8,235.27
+2024-10-19,Winter,Instagram,Standard,New,76.03,8,519.03
+2024-10-20,Winter,Referrals,Discounted,Returning,80.6,1,56.19
+2024-10-20,Winter,Google Ads,Standard,New,98.9,4,103.08
+2024-10-20,Winter,Referrals,Standard,New,33.95,4,389.06
+2024-10-20,Winter,Instagram,Standard,New,14.39,4,336.9
+2024-10-20,Winter,Instagram,Premium,New,65.58,3,228.93
+2024-10-20,Winter,Google Ads,Standard,New,68.63,0,0.0
+2024-10-20,Winter,Google Ads,Standard,New,47.5,7,239.53
+2024-10-20,Winter,Instagram,Standard,Returning,16.92,0,0.0
+2024-10-20,Winter,Flyers,Discounted,Returning,99.02,4,307.63
+2024-10-21,Winter,Flyers,Standard,New,52.51,8,137.66
+2024-10-21,Winter,Google Ads,Premium,Returning,33.72,8,384.42
+2024-10-21,Winter,Referrals,Standard,New,58.01,4,124.4
+2024-10-21,Winter,Instagram,Premium,Returning,37.13,9,634.05
+2024-10-21,Winter,Facebook,Premium,New,57.82,8,553.74
+2024-10-21,Winter,Google Ads,Discounted,Returning,79.24,6,141.83
+2024-10-21,Winter,Facebook,Discounted,Returning,83.28,8,629.1
+2024-10-21,Winter,Referrals,Discounted,Returning,63.81,0,0.0
+2024-10-22,Winter,Instagram,Standard,Returning,6.81,6,133.77
+2024-10-22,Winter,Flyers,Premium,Returning,87.74,7,417.24
+2024-10-22,Winter,Facebook,Premium,Returning,71.42,3,128.87
+2024-10-22,Winter,Facebook,Discounted,New,98.53,2,72.12
+2024-10-22,Winter,Flyers,Standard,New,23.28,2,90.15
+2024-10-23,Winter,Google Ads,Standard,Returning,46.29,6,546.65
+2024-10-23,Winter,Instagram,Premium,Returning,8.89,3,254.12
+2024-10-23,Winter,Flyers,Premium,Returning,7.74,1,64.19
+2024-10-23,Winter,Flyers,Discounted,Returning,69.2,5,499.76
+2024-10-23,Winter,Facebook,Premium,Returning,9.27,7,530.45
+2024-10-23,Winter,Referrals,Discounted,Returning,88.25,9,800.13
+2024-10-23,Winter,Flyers,Discounted,New,46.15,1,52.15
+2024-10-23,Winter,Flyers,Discounted,Returning,41.72,1,30.97
+2024-10-23,Winter,Flyers,Standard,New,63.13,10,382.87
+2024-10-24,Winter,Flyers,Standard,New,37.07,6,142.43
+2024-10-24,Winter,Google Ads,Discounted,Returning,95.14,6,157.36
+2024-10-24,Winter,Facebook,Premium,New,88.86,9,438.52
+2024-10-24,Winter,Instagram,Discounted,New,85.15,7,651.75
+2024-10-24,Winter,Google Ads,Standard,Returning,19.86,4,230.64
+2024-10-25,Winter,Facebook,Discounted,Returning,90.88,9,693.48
+2024-10-25,Winter,Instagram,Discounted,Returning,57.55,6,214.67
+2024-10-25,Winter,Flyers,Discounted,New,89.09,2,144.03
+2024-10-27,Winter,Referrals,Standard,New,79.17,3,166.11
+2024-10-27,Winter,Facebook,Discounted,Returning,28.55,8,415.87
+2024-10-27,Winter,Referrals,Premium,New,31.18,8,560.15
+2024-10-27,Winter,Instagram,Standard,New,81.11,9,563.31
+2024-10-27,Winter,Facebook,Discounted,New,82.59,2,51.66
+2024-10-27,Winter,Google Ads,Premium,New,42.2,8,601.0
+2024-10-28,Winter,Instagram,Discounted,New,60.6,6,503.2
+2024-10-28,Winter,Google Ads,Standard,New,14.58,1,23.28
+2024-10-28,Winter,Facebook,Premium,Returning,48.89,6,350.76
+2024-10-28,Winter,Referrals,Standard,New,54.97,8,665.78
+2024-10-28,Winter,Facebook,Discounted,Returning,72.45,2,31.95
+2024-10-28,Winter,Instagram,Discounted,New,23.88,2,170.61
+2024-10-29,Winter,Instagram,Standard,New,11.79,0,0.0
+2024-10-29,Winter,Google Ads,Standard,New,96.86,3,120.55
+2024-10-29,Winter,Referrals,Premium,New,78.82,9,295.17
+2024-10-29,Winter,Instagram,Standard,New,75.08,7,277.63
+2024-10-30,Winter,Google Ads,Premium,Returning,8.47,1,56.74
+2024-10-30,Winter,Flyers,Premium,New,18.41,10,536.37
+2024-10-31,Winter,Google Ads,Standard,Returning,60.57,1,52.49
+2024-10-31,Winter,Google Ads,Discounted,Returning,87.25,1,18.62
+2024-11-01,Winter,Flyers,Discounted,New,82.95,1,79.95
+2024-11-01,Winter,Referrals,Discounted,New,39.24,1,38.5
+2024-11-01,Winter,Referrals,Standard,Returning,19.89,6,355.17
+2024-11-01,Winter,Instagram,Standard,Returning,94.09,8,581.29
+2024-11-01,Winter,Flyers,Standard,New,89.91,0,0.0
+2024-11-02,Winter,Referrals,Standard,New,14.21,6,556.45
+2024-11-02,Winter,Flyers,Discounted,New,39.44,1,89.5
+2024-11-02,Winter,Referrals,Discounted,New,28.14,7,518.82
+2024-11-02,Winter,Instagram,Standard,Returning,49.6,0,0.0
+2024-11-02,Winter,Google Ads,Discounted,New,21.94,10,534.98
+2024-11-02,Winter,Referrals,Premium,Returning,30.65,0,0.0
+2024-11-03,Winter,Instagram,Premium,Returning,21.13,8,154.03
+2024-11-03,Winter,Facebook,Discounted,Returning,30.11,8,736.42
+2024-11-03,Winter,Referrals,Premium,New,33.35,8,477.98
+2024-11-03,Winter,Google Ads,Premium,New,62.06,5,80.64
+2024-11-03,Winter,Flyers,Premium,Returning,74.98,0,0.0
+2024-11-03,Winter,Instagram,Discounted,New,67.59,3,65.95
+2024-11-03,Winter,Flyers,Discounted,New,43.81,6,536.73
+2024-11-03,Winter,Google Ads,Standard,New,62.65,5,399.4
+2024-11-04,Winter,Flyers,Standard,New,13.63,4,336.41
+2024-11-04,Winter,Instagram,Standard,Returning,20.97,2,161.66
+2024-11-04,Winter,Flyers,Discounted,New,66.25,2,146.85
+2024-11-04,Winter,Flyers,Premium,New,7.81,7,153.27
+2024-11-04,Winter,Referrals,Premium,New,91.32,2,151.56
+2024-11-04,Winter,Google Ads,Standard,New,26.28,5,432.41
+2024-11-05,Winter,Referrals,Discounted,New,62.65,9,351.74
+2024-11-05,Winter,Referrals,Premium,New,92.36,3,90.98
+2024-11-05,Winter,Facebook,Premium,Returning,41.68,3,168.88
+2024-11-05,Winter,Referrals,Standard,Returning,96.48,4,295.09
+2024-11-05,Winter,Instagram,Premium,New,31.95,6,476.69
+2024-11-06,Winter,Google Ads,Standard,Returning,74.01,0,0.0
+2024-11-06,Winter,Instagram,Discounted,Returning,83.33,1,33.92
+2024-11-06,Winter,Facebook,Standard,Returning,73.52,2,40.91
+2024-11-06,Winter,Referrals,Premium,Returning,68.25,6,183.85
+2024-11-06,Winter,Facebook,Discounted,New,57.71,2,152.03
+2024-11-07,Winter,Google Ads,Discounted,New,55.89,7,182.6
+2024-11-07,Winter,Instagram,Discounted,Returning,95.08,10,991.33
+2024-11-07,Winter,Referrals,Discounted,New,86.22,4,182.95
+2024-11-07,Winter,Google Ads,Discounted,Returning,16.0,3,86.48
+2024-11-07,Winter,Instagram,Discounted,Returning,54.24,5,486.96
+2024-11-07,Winter,Facebook,Discounted,Returning,92.41,0,0.0
+2024-11-08,Winter,Flyers,Discounted,Returning,93.96,9,186.64
+2024-11-08,Winter,Google Ads,Standard,New,70.08,7,434.83
+2024-11-08,Winter,Facebook,Standard,Returning,88.29,4,320.57
+2024-11-08,Winter,Google Ads,Premium,New,75.36,3,228.35
+2024-11-09,Winter,Facebook,Standard,New,35.4,2,55.45
+2024-11-09,Winter,Referrals,Premium,Returning,81.89,6,504.41
+2024-11-09,Winter,Facebook,Discounted,Returning,99.22,10,503.78
+2024-11-10,Winter,Instagram,Discounted,Returning,24.8,7,119.29
+2024-11-10,Winter,Google Ads,Standard,Returning,88.31,6,559.8
+2024-11-10,Winter,Flyers,Premium,Returning,47.43,10,458.72
+2024-11-10,Winter,Facebook,Premium,Returning,5.77,5,225.7
+2024-11-10,Winter,Facebook,Standard,New,87.29,10,966.64
+2024-11-11,Winter,Flyers,Premium,New,38.88,7,127.94
+2024-11-11,Winter,Referrals,Premium,New,31.31,7,487.83
+2024-11-11,Winter,Google Ads,Standard,Returning,79.22,6,372.15
+2024-11-11,Winter,Flyers,Standard,New,65.43,8,756.24
+2024-11-11,Winter,Instagram,Premium,Returning,62.63,1,21.97
+2024-11-11,Winter,Facebook,Discounted,New,14.32,8,701.19
+2024-11-11,Winter,Referrals,Discounted,Returning,21.83,5,405.23
+2024-11-12,Winter,Referrals,Discounted,New,71.81,6,545.85
+2024-11-12,Winter,Google Ads,Standard,Returning,76.41,8,657.35
+2024-11-12,Winter,Google Ads,Standard,New,61.23,3,255.2
+2024-11-12,Winter,Flyers,Discounted,Returning,68.03,5,157.01
+2024-11-12,Winter,Flyers,Discounted,New,70.82,9,345.46
+2024-11-12,Winter,Referrals,Premium,Returning,12.26,8,392.62
+2024-11-12,Winter,Referrals,Premium,Returning,96.04,9,388.98
+2024-11-13,Winter,Instagram,Premium,New,50.42,6,428.46
+2024-11-14,Winter,Instagram,Standard,Returning,59.19,2,126.4
+2024-11-14,Winter,Google Ads,Premium,New,11.51,7,455.49
+2024-11-14,Winter,Flyers,Discounted,Returning,68.98,7,206.67
+2024-11-14,Winter,Flyers,Standard,Returning,22.84,9,758.43
+2024-11-15,Winter,Referrals,Premium,Returning,24.03,4,214.12
+2024-11-15,Winter,Google Ads,Premium,New,71.28,4,322.5
+2024-11-16,Winter,Google Ads,Premium,New,99.83,5,483.45
+2024-11-16,Winter,Instagram,Premium,New,46.67,3,164.34
+2024-11-17,Winter,Google Ads,Premium,Returning,15.8,10,374.95
+2024-11-17,Winter,Facebook,Standard,Returning,50.91,0,0.0
+2024-11-17,Winter,Instagram,Discounted,Returning,13.93,4,153.04
+2024-11-17,Winter,Referrals,Premium,New,7.63,8,710.19
+2024-11-17,Winter,Facebook,Premium,New,83.1,6,538.77
+2024-11-17,Winter,Google Ads,Premium,Returning,48.47,1,83.2
+2024-11-17,Winter,Referrals,Standard,Returning,99.33,2,91.89
+2024-11-18,Winter,Flyers,Premium,Returning,63.26,6,480.03
+2024-11-18,Winter,Facebook,Discounted,Returning,36.78,5,112.1
+2024-11-18,Winter,Instagram,Premium,Returning,10.26,9,695.24
+2024-11-18,Winter,Flyers,Premium,New,35.69,3,210.16
+2024-11-18,Winter,Flyers,Standard,Returning,68.05,4,98.68
+2024-11-18,Winter,Instagram,Standard,New,29.66,2,40.02
+2024-11-18,Winter,Flyers,Premium,Returning,7.77,10,474.56
+2024-11-19,Winter,Referrals,Standard,New,40.1,1,62.2
+2024-11-19,Winter,Instagram,Standard,Returning,45.74,2,151.47
+2024-11-19,Winter,Google Ads,Discounted,Returning,18.71,7,141.81
+2024-11-19,Winter,Flyers,Premium,New,59.9,9,286.7
+2024-11-19,Winter,Instagram,Standard,Returning,37.48,10,442.39
+2024-11-19,Winter,Google Ads,Discounted,Returning,21.77,0,0.0
+2024-11-19,Winter,Flyers,Premium,New,94.53,2,191.95
+2024-11-19,Winter,Flyers,Standard,Returning,58.27,9,899.12
+2024-11-19,Winter,Facebook,Standard,Returning,62.76,6,159.77
+2024-11-19,Winter,Facebook,Discounted,New,27.87,6,450.85
+2024-11-19,Winter,Google Ads,Premium,Returning,57.42,3,254.8
+2024-11-20,Winter,Facebook,Premium,Returning,82.05,10,479.69
+2024-11-20,Winter,Instagram,Standard,Returning,48.05,8,219.41
+2024-11-20,Winter,Referrals,Discounted,New,89.87,3,287.81
+2024-11-20,Winter,Facebook,Premium,Returning,16.15,2,56.58
+2024-11-20,Winter,Instagram,Discounted,Returning,25.52,3,132.28
+2024-11-21,Winter,Facebook,Standard,Returning,77.34,6,556.42
+2024-11-21,Winter,Facebook,Standard,Returning,44.62,8,496.11
+2024-11-21,Winter,Flyers,Standard,New,6.4,8,680.77
+2024-11-21,Winter,Facebook,Discounted,Returning,28.51,6,342.27
+2024-11-21,Winter,Google Ads,Discounted,New,36.77,4,190.71
+2024-11-21,Winter,Instagram,Discounted,Returning,49.53,1,68.06
+2024-11-21,Winter,Flyers,Standard,New,13.6,2,196.49
+2024-11-21,Winter,Facebook,Standard,New,11.55,1,17.31
+2024-11-22,Winter,Instagram,Premium,New,26.29,6,215.7
+2024-11-22,Winter,Instagram,Premium,Returning,64.75,8,319.88
+2024-11-22,Winter,Instagram,Premium,New,25.28,10,244.91
+2024-11-22,Winter,Flyers,Discounted,New,53.95,8,780.0
+2024-11-22,Winter,Flyers,Discounted,New,68.39,7,681.78
+2024-11-23,Winter,Google Ads,Standard,Returning,46.6,0,0.0
+2024-11-23,Winter,Google Ads,Standard,New,7.78,0,0.0
+2024-11-23,Winter,Google Ads,Discounted,Returning,61.19,0,0.0
+2024-11-23,Winter,Facebook,Discounted,Returning,29.49,0,0.0
+2024-11-23,Winter,Flyers,Premium,Returning,78.97,5,311.27
+2024-11-23,Winter,Facebook,Premium,New,46.14,2,197.62
+2024-11-23,Winter,Facebook,Discounted,Returning,85.21,9,447.08
+2024-11-24,Winter,Instagram,Discounted,Returning,73.52,7,606.8
+2024-11-24,Winter,Instagram,Standard,Returning,61.28,5,90.71
+2024-11-25,Winter,Facebook,Standard,Returning,58.65,0,0.0
+2024-11-25,Winter,Instagram,Discounted,New,10.11,4,133.45
+2024-11-25,Winter,Facebook,Premium,Returning,66.98,4,162.58
+2024-11-25,Winter,Referrals,Premium,Returning,42.56,10,392.95
+2024-11-25,Winter,Instagram,Premium,New,48.93,5,489.13
+2024-11-25,Winter,Facebook,Standard,Returning,84.24,6,549.38
+2024-11-25,Winter,Instagram,Standard,New,11.05,2,147.2
+2024-11-26,Winter,Instagram,Discounted,New,14.64,2,112.54
+2024-11-26,Winter,Facebook,Discounted,Returning,62.26,5,145.33
+2024-11-27,Winter,Google Ads,Standard,New,27.99,9,416.51
+2024-11-27,Winter,Facebook,Discounted,New,56.3,5,371.66
+2024-11-27,Winter,Instagram,Discounted,New,93.35,10,280.17
+2024-11-27,Winter,Instagram,Standard,New,89.64,0,0.0
+2024-11-27,Winter,Flyers,Discounted,New,8.56,2,156.16
+2024-11-27,Winter,Facebook,Discounted,New,95.14,10,245.89
+2024-11-28,Winter,Google Ads,Discounted,Returning,76.63,9,184.44
+2024-11-28,Winter,Flyers,Premium,Returning,38.35,3,292.48
+2024-11-28,Winter,Flyers,Discounted,Returning,6.94,8,618.27
+2024-11-28,Winter,Referrals,Premium,New,45.64,1,62.96
+2024-11-28,Winter,Instagram,Premium,Returning,97.33,3,224.05
+2024-11-29,Winter,Facebook,Standard,New,63.69,3,252.94
+2024-11-29,Winter,Facebook,Premium,New,53.02,10,660.67
+2024-11-29,Winter,Facebook,Standard,New,79.75,10,948.33
+2024-11-29,Winter,Referrals,Discounted,New,96.26,9,391.11
+2024-11-29,Winter,Flyers,Standard,New,92.2,9,588.11
+2024-11-30,Winter,Flyers,Standard,New,45.69,5,139.68
+2024-11-30,Winter,Instagram,Premium,Returning,32.17,6,159.21
+2024-11-30,Winter,Instagram,Standard,Returning,59.98,7,161.64
+2024-11-30,Winter,Google Ads,Standard,New,60.91,10,706.13
+2024-11-30,Winter,Instagram,Discounted,Returning,34.65,6,587.78
+2024-11-30,Winter,Referrals,Standard,New,20.9,2,73.09
+2024-11-30,Winter,Google Ads,Standard,Returning,90.36,7,380.28
+2024-11-30,Winter,Flyers,Discounted,Returning,56.95,9,871.16
+2024-12-01,Spring,Facebook,Discounted,New,63.55,7,391.98
+2024-12-01,Spring,Google Ads,Premium,New,82.7,6,555.63
+2024-12-02,Spring,Referrals,Premium,New,47.35,0,0.0
+2024-12-02,Spring,Referrals,Standard,New,28.4,2,163.38
+2024-12-02,Spring,Referrals,Standard,New,88.75,5,267.77
+2024-12-02,Spring,Instagram,Premium,New,58.64,8,797.67
+2024-12-02,Spring,Google Ads,Discounted,New,64.23,0,0.0
+2024-12-03,Spring,Flyers,Discounted,New,86.92,6,156.35
+2024-12-03,Spring,Facebook,Standard,New,96.34,0,0.0
+2024-12-03,Spring,Instagram,Premium,New,99.2,3,153.59
+2024-12-03,Spring,Google Ads,Premium,New,99.61,9,233.79
+2024-12-03,Spring,Instagram,Premium,New,82.88,2,120.67
+2024-12-03,Spring,Instagram,Standard,Returning,30.49,0,0.0
+2024-12-03,Spring,Instagram,Standard,Returning,36.61,6,113.41
+2024-12-04,Spring,Instagram,Standard,New,31.91,8,451.58
+2024-12-04,Spring,Flyers,Discounted,Returning,95.13,6,491.28
+2024-12-04,Spring,Facebook,Discounted,Returning,44.01,1,81.42
+2024-12-04,Spring,Google Ads,Standard,Returning,26.99,5,238.19
+2024-12-04,Spring,Instagram,Discounted,New,10.68,2,180.2
+2024-12-05,Spring,Google Ads,Discounted,New,74.56,9,403.89
+2024-12-05,Spring,Facebook,Discounted,New,57.48,2,118.57
+2024-12-05,Spring,Instagram,Discounted,New,20.33,8,534.73
+2024-12-05,Spring,Instagram,Discounted,Returning,58.74,7,142.82
+2024-12-05,Spring,Instagram,Discounted,New,86.39,8,370.17
+2024-12-05,Spring,Flyers,Standard,Returning,85.81,9,258.37
+2024-12-05,Spring,Google Ads,Premium,Returning,56.32,1,23.11
+2024-12-05,Spring,Instagram,Discounted,New,43.62,7,356.05
+2024-12-05,Spring,Referrals,Standard,New,24.35,9,472.26
+2024-12-05,Spring,Facebook,Premium,Returning,42.63,2,72.65
+2024-12-05,Spring,Facebook,Discounted,New,44.44,6,479.53
+2024-12-05,Spring,Google Ads,Premium,New,31.8,5,491.78
+2024-12-05,Spring,Google Ads,Discounted,New,36.03,0,0.0
+2024-12-05,Spring,Flyers,Premium,New,22.9,10,392.26
+2024-12-05,Spring,Facebook,Standard,New,58.12,8,244.91
+2024-12-06,Spring,Referrals,Discounted,Returning,78.35,5,188.13
+2024-12-06,Spring,Facebook,Discounted,Returning,40.71,0,0.0
+2024-12-07,Spring,Instagram,Discounted,Returning,89.66,8,597.5
+2024-12-07,Spring,Referrals,Standard,New,37.44,0,0.0
+2024-12-07,Spring,Flyers,Premium,New,96.1,3,103.98
+2024-12-07,Spring,Instagram,Standard,Returning,11.3,0,0.0
+2024-12-08,Spring,Facebook,Standard,New,91.58,2,157.97
+2024-12-08,Spring,Referrals,Standard,New,91.35,1,20.72
+2024-12-08,Spring,Flyers,Discounted,Returning,33.58,3,159.55
+2024-12-08,Spring,Instagram,Premium,New,73.62,4,100.26
+2024-12-08,Spring,Facebook,Standard,New,47.74,4,230.67
+2024-12-08,Spring,Instagram,Discounted,New,44.85,9,448.21
+2024-12-09,Spring,Flyers,Standard,New,65.72,4,332.73
+2024-12-09,Spring,Referrals,Standard,New,52.2,5,310.29
+2024-12-09,Spring,Flyers,Standard,Returning,73.92,10,422.43
+2024-12-09,Spring,Referrals,Standard,New,27.7,4,370.52
+2024-12-09,Spring,Instagram,Standard,Returning,26.11,6,475.68
+2024-12-09,Spring,Instagram,Standard,New,80.33,5,301.77
+2024-12-09,Spring,Facebook,Discounted,New,40.69,5,75.12
+2024-12-09,Spring,Instagram,Premium,Returning,77.81,9,180.6
+2024-12-10,Spring,Instagram,Standard,Returning,5.03,7,616.28
+2024-12-10,Spring,Google Ads,Discounted,Returning,25.53,4,256.1
+2024-12-10,Spring,Flyers,Premium,Returning,65.23,6,238.09
+2024-12-10,Spring,Flyers,Discounted,New,94.48,10,443.08
+2024-12-10,Spring,Google Ads,Standard,New,7.9,1,30.71
+2024-12-11,Spring,Flyers,Standard,New,54.4,8,502.37
+2024-12-11,Spring,Referrals,Premium,Returning,71.15,5,393.74
+2024-12-11,Spring,Facebook,Standard,New,33.16,10,156.48
+2024-12-11,Spring,Referrals,Premium,New,74.5,6,573.92
+2024-12-11,Spring,Referrals,Standard,Returning,71.27,7,418.25
+2024-12-11,Spring,Referrals,Discounted,New,72.31,7,231.41
+2024-12-12,Spring,Google Ads,Discounted,Returning,31.77,9,618.16
+2024-12-13,Spring,Facebook,Standard,Returning,56.14,7,427.91
+2024-12-13,Spring,Referrals,Standard,New,31.94,2,117.47
+2024-12-13,Spring,Facebook,Discounted,New,96.78,9,691.18
+2024-12-13,Spring,Flyers,Standard,Returning,22.31,6,505.76
+2024-12-13,Spring,Google Ads,Standard,New,86.14,3,287.47
+2024-12-13,Spring,Facebook,Premium,New,58.83,2,76.16
+2024-12-13,Spring,Facebook,Discounted,New,76.76,10,375.3
+2024-12-13,Spring,Google Ads,Premium,New,45.54,9,884.35
+2024-12-14,Spring,Google Ads,Discounted,Returning,59.1,3,269.17
+2024-12-14,Spring,Google Ads,Standard,New,89.05,5,181.15
+2024-12-15,Spring,Google Ads,Standard,New,30.17,7,333.59
+2024-12-15,Spring,Facebook,Standard,Returning,32.8,10,379.52
+2024-12-15,Spring,Instagram,Standard,New,84.34,7,414.06
+2024-12-15,Spring,Flyers,Standard,Returning,25.91,5,320.21
+2024-12-15,Spring,Instagram,Discounted,New,87.41,5,342.84
+2024-12-15,Spring,Flyers,Standard,Returning,80.77,2,45.8
+2024-12-15,Spring,Referrals,Discounted,New,12.59,8,153.34
+2024-12-15,Spring,Referrals,Premium,New,87.28,7,661.28
+2024-12-16,Spring,Instagram,Standard,New,23.83,4,325.67
+2024-12-16,Spring,Facebook,Premium,Returning,79.6,3,162.54
+2024-12-16,Spring,Flyers,Premium,Returning,91.07,9,863.86
+2024-12-16,Spring,Facebook,Discounted,Returning,88.1,1,33.77
+2024-12-16,Spring,Facebook,Discounted,Returning,78.14,3,264.69
+2024-12-17,Spring,Instagram,Discounted,Returning,87.69,8,629.03
+2024-12-17,Spring,Flyers,Premium,Returning,62.38,10,339.24
+2024-12-17,Spring,Instagram,Discounted,Returning,74.49,3,75.57
+2024-12-17,Spring,Flyers,Discounted,Returning,88.38,7,563.55
+2024-12-17,Spring,Referrals,Discounted,Returning,50.21,9,223.59
+2024-12-18,Spring,Referrals,Discounted,New,19.25,2,114.13
+2024-12-18,Spring,Referrals,Standard,Returning,36.97,1,88.95
+2024-12-18,Spring,Instagram,Standard,Returning,85.27,7,122.84
+2024-12-18,Spring,Facebook,Discounted,Returning,82.44,6,375.25
+2024-12-18,Spring,Google Ads,Standard,Returning,74.4,5,416.68
+2024-12-18,Spring,Facebook,Standard,Returning,25.55,3,91.85
+2024-12-18,Spring,Referrals,Discounted,Returning,26.63,6,176.98
+2024-12-18,Spring,Instagram,Discounted,Returning,11.2,4,190.02
+2024-12-19,Spring,Facebook,Standard,New,63.75,9,306.74
+2024-12-19,Spring,Facebook,Standard,New,88.89,5,306.51
+2024-12-19,Spring,Google Ads,Premium,New,44.13,5,346.11
+2024-12-19,Spring,Instagram,Discounted,New,89.6,4,147.25
+2024-12-19,Spring,Google Ads,Premium,New,41.06,4,269.06
+2024-12-19,Spring,Google Ads,Standard,Returning,69.74,6,524.89
+2024-12-19,Spring,Instagram,Premium,Returning,61.73,5,329.59
+2024-12-19,Spring,Facebook,Standard,Returning,6.16,6,277.68
+2024-12-20,Spring,Flyers,Premium,New,88.29,10,376.12
+2024-12-20,Spring,Flyers,Premium,Returning,54.32,3,118.68
+2024-12-20,Spring,Google Ads,Discounted,New,74.59,6,347.57
+2024-12-20,Spring,Flyers,Discounted,Returning,6.85,7,507.88
+2024-12-21,Spring,Google Ads,Discounted,Returning,86.59,3,187.12
+2024-12-21,Spring,Flyers,Discounted,Returning,22.12,5,314.66
+2024-12-21,Spring,Google Ads,Discounted,Returning,9.92,10,867.61
+2024-12-22,Spring,Flyers,Premium,New,75.85,10,224.27
+2024-12-22,Spring,Flyers,Standard,Returning,66.72,0,0.0
+2024-12-22,Spring,Referrals,Discounted,Returning,84.73,1,76.63
+2024-12-22,Spring,Instagram,Standard,New,79.84,2,34.65
+2024-12-22,Spring,Flyers,Discounted,New,64.39,8,740.07
+2024-12-23,Spring,Instagram,Standard,New,93.71,8,185.53
+2024-12-23,Spring,Referrals,Discounted,New,14.35,6,417.99
+2024-12-23,Spring,Facebook,Discounted,New,96.02,10,624.31
+2024-12-24,Spring,Flyers,Premium,Returning,83.25,8,588.29
+2024-12-25,Spring,Flyers,Standard,Returning,96.66,8,643.82
+2024-12-25,Spring,Google Ads,Premium,New,80.96,10,180.47
+2024-12-25,Spring,Facebook,Standard,Returning,73.99,2,78.0
+2024-12-25,Spring,Google Ads,Discounted,New,69.11,10,965.13
+2024-12-25,Spring,Google Ads,Discounted,Returning,47.59,8,626.15
+2024-12-25,Spring,Flyers,Premium,Returning,67.04,7,217.39
+2024-12-26,Spring,Instagram,Standard,Returning,97.22,7,362.27
+2024-12-26,Spring,Flyers,Discounted,New,55.13,0,0.0
+2024-12-26,Spring,Instagram,Discounted,New,7.11,7,283.2
+2024-12-26,Spring,Facebook,Standard,New,79.76,2,157.93
+2024-12-26,Spring,Google Ads,Discounted,Returning,97.91,5,158.97
+2024-12-27,Spring,Referrals,Premium,Returning,6.59,5,386.17
+2024-12-27,Spring,Referrals,Discounted,Returning,10.02,0,0.0
+2024-12-27,Spring,Google Ads,Premium,New,62.65,0,0.0
+2024-12-27,Spring,Google Ads,Premium,Returning,91.36,7,115.56
+2024-12-27,Spring,Flyers,Standard,New,26.6,8,248.95
+2024-12-28,Spring,Instagram,Discounted,Returning,60.48,6,378.0
+2024-12-28,Spring,Instagram,Premium,Returning,66.98,5,156.89
+2024-12-28,Spring,Facebook,Standard,New,63.51,10,679.2
+2024-12-28,Spring,Facebook,Premium,New,55.04,1,78.2
+2024-12-28,Spring,Referrals,Discounted,New,57.28,10,245.1
+2024-12-28,Spring,Facebook,Standard,New,58.22,3,208.35
+2024-12-28,Spring,Flyers,Premium,New,22.79,8,575.94
+2024-12-28,Spring,Instagram,Standard,New,86.79,2,162.34
+2024-12-28,Spring,Google Ads,Discounted,Returning,18.06,3,151.95
+2024-12-28,Spring,Google Ads,Premium,Returning,40.33,1,75.68
+2024-12-29,Spring,Flyers,Standard,Returning,93.1,9,334.38
+2024-12-29,Spring,Referrals,Discounted,Returning,14.58,8,157.87
+2024-12-30,Spring,Facebook,Premium,Returning,13.92,6,115.33
+2024-12-30,Spring,Flyers,Discounted,New,96.04,10,563.26
+2024-12-30,Spring,Google Ads,Discounted,Returning,69.89,10,877.21
+2024-12-30,Spring,Instagram,Premium,New,44.61,7,653.0
+2024-12-30,Spring,Referrals,Standard,New,70.69,10,811.11
+2024-12-30,Spring,Facebook,Discounted,New,6.69,2,193.36
+2024-12-30,Spring,Google Ads,Premium,New,16.13,8,740.21
+2024-12-30,Spring,Google Ads,Standard,New,73.48,10,902.53
+2024-12-30,Spring,Google Ads,Discounted,New,92.78,0,0.0
+2024-12-30,Spring,Google Ads,Discounted,New,73.71,8,450.32
+2024-12-30,Spring,Facebook,Premium,New,44.4,0,0.0
+2024-12-31,Spring,Facebook,Standard,Returning,9.18,8,523.51
+2024-12-31,Spring,Instagram,Premium,New,39.61,8,654.34
+2024-12-31,Spring,Google Ads,Standard,New,7.44,8,263.77
+2024-12-31,Spring,Flyers,Standard,New,93.05,9,437.73
+2024-12-31,Spring,Flyers,Premium,Returning,95.77,0,0.0
+2024-12-31,Spring,Facebook,Premium,New,54.78,6,277.23
+2024-12-31,Spring,Google Ads,Premium,New,65.25,5,118.9
+2024-12-31,Spring,Facebook,Discounted,New,30.42,2,145.4
+2024-12-31,Spring,Flyers,Standard,New,13.88,8,581.09
+2025-01-01,Spring,Flyers,Standard,New,56.83,10,452.27
+2025-01-01,Spring,Flyers,Premium,New,50.58,0,0.0
+2025-01-01,Spring,Facebook,Discounted,New,24.3,4,204.43
+2025-01-02,Spring,Referrals,Premium,New,60.56,7,139.76
+2025-01-02,Spring,Instagram,Standard,New,67.27,6,229.06
+2025-01-02,Spring,Facebook,Discounted,Returning,34.74,8,124.19
+2025-01-02,Spring,Google Ads,Standard,New,95.14,3,73.05
+2025-01-02,Spring,Referrals,Standard,Returning,20.63,2,114.42
+2025-01-02,Spring,Facebook,Standard,New,84.28,2,119.38
+2025-01-03,Spring,Instagram,Premium,New,33.18,9,645.84
+2025-01-03,Spring,Referrals,Discounted,New,7.73,0,0.0
+2025-01-03,Spring,Facebook,Premium,New,47.7,3,106.31
+2025-01-03,Spring,Referrals,Discounted,New,62.72,4,271.23
+2025-01-03,Spring,Flyers,Premium,Returning,44.76,6,452.23
+2025-01-04,Spring,Instagram,Standard,New,92.73,7,324.81
+2025-01-04,Spring,Flyers,Standard,New,55.0,10,257.67
+2025-01-04,Spring,Referrals,Standard,New,97.4,3,161.8
+2025-01-04,Spring,Google Ads,Premium,New,16.33,1,62.27
+2025-01-04,Spring,Referrals,Standard,New,27.68,1,81.61
+2025-01-04,Spring,Flyers,Discounted,New,49.95,4,325.8
+2025-01-04,Spring,Google Ads,Standard,Returning,82.76,10,969.54
+2025-01-04,Spring,Facebook,Premium,New,38.36,6,372.27
+2025-01-05,Spring,Referrals,Standard,Returning,77.68,2,158.75
+2025-01-05,Spring,Instagram,Discounted,New,5.07,6,296.09
+2025-01-05,Spring,Google Ads,Premium,New,34.42,0,0.0
+2025-01-05,Spring,Facebook,Premium,Returning,73.76,1,59.04
+2025-01-05,Spring,Facebook,Premium,New,39.87,0,0.0
+2025-01-06,Spring,Flyers,Premium,Returning,35.9,1,84.32
+2025-01-06,Spring,Instagram,Discounted,Returning,66.75,8,429.08
+2025-01-06,Spring,Referrals,Discounted,Returning,82.76,0,0.0
+2025-01-06,Spring,Flyers,Standard,Returning,42.31,1,32.34
+2025-01-06,Spring,Google Ads,Premium,New,54.62,3,82.1
+2025-01-06,Spring,Facebook,Standard,New,30.25,2,130.63
+2025-01-07,Spring,Flyers,Standard,Returning,42.32,7,127.21
+2025-01-08,Spring,Flyers,Discounted,Returning,5.25,1,71.74
+2025-01-08,Spring,Google Ads,Discounted,Returning,65.4,1,86.9
+2025-01-08,Spring,Instagram,Premium,New,70.08,6,219.16
+2025-01-08,Spring,Instagram,Premium,Returning,74.02,7,149.87
+2025-01-09,Spring,Instagram,Discounted,New,50.8,7,163.83
+2025-01-09,Spring,Instagram,Standard,New,58.73,0,0.0
+2025-01-09,Spring,Flyers,Standard,New,33.99,6,558.55
+2025-01-09,Spring,Instagram,Standard,New,63.16,5,444.44
+2025-01-09,Spring,Flyers,Discounted,Returning,9.9,1,93.28
+2025-01-09,Spring,Referrals,Premium,Returning,90.23,9,883.75
+2025-01-09,Spring,Referrals,Discounted,Returning,19.86,2,32.03
+2025-01-09,Spring,Google Ads,Premium,Returning,85.36,1,16.95
+2025-01-09,Spring,Flyers,Standard,Returning,81.36,10,393.83
+2025-01-10,Spring,Google Ads,Premium,New,27.07,4,372.07
+2025-01-10,Spring,Referrals,Discounted,New,73.68,5,204.72
+2025-01-10,Spring,Facebook,Premium,New,9.9,9,212.89
+2025-01-11,Spring,Google Ads,Standard,Returning,34.51,6,449.77
+2025-01-11,Spring,Flyers,Standard,Returning,25.88,2,187.06
+2025-01-11,Spring,Flyers,Premium,Returning,6.08,0,0.0
+2025-01-11,Spring,Flyers,Premium,New,40.67,7,617.21
+2025-01-11,Spring,Instagram,Discounted,New,77.86,0,0.0
+2025-01-11,Spring,Facebook,Standard,Returning,83.78,5,210.54
+2025-01-11,Spring,Facebook,Standard,New,74.95,8,469.04
+2025-01-12,Spring,Facebook,Discounted,New,95.69,4,316.73
+2025-01-12,Spring,Referrals,Premium,Returning,82.26,1,93.23
+2025-01-12,Spring,Facebook,Standard,New,48.45,6,320.71
+2025-01-12,Spring,Instagram,Premium,Returning,63.94,2,170.32
+2025-01-13,Spring,Referrals,Standard,New,81.28,0,0.0
+2025-01-13,Spring,Instagram,Discounted,Returning,84.09,8,757.77
+2025-01-13,Spring,Google Ads,Standard,New,29.05,5,411.99
+2025-01-14,Spring,Facebook,Premium,Returning,98.98,0,0.0
+2025-01-14,Spring,Facebook,Discounted,New,65.47,7,282.22
+2025-01-14,Spring,Google Ads,Premium,New,9.72,3,116.8
+2025-01-14,Spring,Referrals,Premium,Returning,36.65,2,121.0
+2025-01-14,Spring,Referrals,Premium,Returning,58.43,8,462.36
+2025-01-15,Spring,Flyers,Premium,Returning,22.43,10,596.01
+2025-01-15,Spring,Google Ads,Standard,Returning,27.54,7,664.37
+2025-01-15,Spring,Flyers,Standard,New,84.16,5,139.99
+2025-01-15,Spring,Referrals,Premium,Returning,73.82,3,145.89
+2025-01-15,Spring,Facebook,Discounted,Returning,34.63,2,111.12
+2025-01-15,Spring,Google Ads,Standard,New,68.94,8,729.52
+2025-01-16,Spring,Flyers,Discounted,Returning,49.08,3,268.39
+2025-01-16,Spring,Referrals,Discounted,Returning,12.78,10,319.76
+2025-01-17,Spring,Flyers,Premium,Returning,48.11,8,310.37
+2025-01-17,Spring,Instagram,Discounted,New,36.14,0,0.0
+2025-01-17,Spring,Referrals,Discounted,Returning,97.5,3,267.04
+2025-01-17,Spring,Google Ads,Discounted,Returning,39.53,5,76.66
+2025-01-17,Spring,Instagram,Discounted,Returning,71.9,0,0.0
+2025-01-18,Spring,Referrals,Discounted,Returning,34.48,8,300.48
+2025-01-18,Spring,Facebook,Premium,New,83.03,5,180.06
+2025-01-18,Spring,Facebook,Premium,Returning,10.46,8,729.51
+2025-01-18,Spring,Instagram,Premium,New,27.03,1,58.38
+2025-01-18,Spring,Facebook,Discounted,Returning,56.87,9,743.72
+2025-01-18,Spring,Flyers,Discounted,New,35.02,9,553.89
+2025-01-18,Spring,Flyers,Premium,Returning,6.27,2,117.01
+2025-01-19,Spring,Instagram,Standard,New,69.31,7,414.87
+2025-01-19,Spring,Referrals,Discounted,New,40.8,8,278.12
+2025-01-19,Spring,Google Ads,Discounted,New,95.54,0,0.0
+2025-01-19,Spring,Flyers,Standard,Returning,27.85,10,251.4
+2025-01-19,Spring,Referrals,Standard,Returning,23.09,10,287.23
+2025-01-19,Spring,Flyers,Premium,New,22.75,7,209.71
+2025-01-20,Spring,Flyers,Standard,New,66.19,7,530.52
+2025-01-20,Spring,Facebook,Premium,New,22.87,7,474.36
+2025-01-20,Spring,Instagram,Discounted,Returning,84.47,6,168.65
+2025-01-20,Spring,Flyers,Premium,Returning,31.57,1,45.01
+2025-01-20,Spring,Facebook,Discounted,New,27.1,6,580.89
+2025-01-21,Spring,Referrals,Standard,New,49.82,8,698.11
+2025-01-21,Spring,Instagram,Discounted,Returning,94.55,1,79.34
+2025-01-21,Spring,Referrals,Discounted,New,10.91,8,142.36
+2025-01-22,Spring,Referrals,Premium,New,88.39,8,765.26
+2025-01-22,Spring,Facebook,Premium,Returning,34.36,7,298.94
+2025-01-22,Spring,Facebook,Premium,New,53.72,5,86.36
+2025-01-22,Spring,Facebook,Premium,New,80.88,8,471.15
+2025-01-23,Spring,Flyers,Discounted,Returning,99.98,0,0.0
+2025-01-23,Spring,Referrals,Discounted,New,33.19,6,401.53
+2025-01-23,Spring,Referrals,Standard,New,5.42,0,0.0
+2025-01-23,Spring,Facebook,Standard,Returning,39.97,5,296.28
+2025-01-23,Spring,Facebook,Discounted,New,15.92,3,146.2
+2025-01-24,Spring,Instagram,Standard,New,86.87,2,59.7
+2025-01-24,Spring,Referrals,Premium,New,5.49,10,830.94
+2025-01-24,Spring,Google Ads,Premium,New,76.44,6,199.74
+2025-01-24,Spring,Referrals,Premium,Returning,66.26,10,642.58
+2025-01-25,Spring,Flyers,Discounted,Returning,34.47,0,0.0
+2025-01-25,Spring,Facebook,Discounted,New,15.04,10,386.16
+2025-01-25,Spring,Google Ads,Discounted,Returning,36.92,4,313.76
+2025-01-25,Spring,Flyers,Discounted,New,35.14,2,155.57
+2025-01-26,Spring,Instagram,Standard,Returning,31.53,2,41.66
+2025-01-26,Spring,Facebook,Standard,Returning,40.76,5,178.23
+2025-01-26,Spring,Facebook,Premium,Returning,17.95,8,520.72
+2025-01-26,Spring,Flyers,Premium,New,41.74,1,75.4
+2025-01-26,Spring,Google Ads,Standard,Returning,9.74,9,413.17
+2025-01-26,Spring,Flyers,Premium,Returning,34.58,0,0.0
+2025-01-26,Spring,Instagram,Premium,Returning,25.14,0,0.0
+2025-01-26,Spring,Facebook,Premium,New,84.51,7,648.91
+2025-01-27,Spring,Instagram,Standard,New,14.43,9,320.24
+2025-01-27,Spring,Facebook,Discounted,New,86.31,9,825.11
+2025-01-28,Spring,Instagram,Standard,New,18.97,9,182.45
+2025-01-28,Spring,Google Ads,Premium,New,75.34,4,116.43
+2025-01-28,Spring,Google Ads,Standard,Returning,41.08,5,129.07
+2025-01-28,Spring,Flyers,Standard,Returning,51.97,7,368.38
+2025-01-28,Spring,Google Ads,Standard,Returning,55.15,2,47.33
+2025-01-28,Spring,Google Ads,Standard,New,7.06,6,454.13
+2025-01-28,Spring,Flyers,Discounted,Returning,19.16,4,222.16
+2025-01-28,Spring,Referrals,Standard,Returning,61.77,2,101.97
+2025-01-29,Spring,Facebook,Premium,New,26.67,3,263.74
+2025-01-29,Spring,Flyers,Discounted,Returning,71.94,5,490.49
+2025-01-29,Spring,Instagram,Premium,New,95.25,1,36.8
+2025-01-29,Spring,Instagram,Premium,Returning,10.8,0,0.0
+2025-01-29,Spring,Facebook,Discounted,New,36.78,4,161.43
+2025-01-30,Spring,Referrals,Premium,Returning,97.06,8,499.49
+2025-01-30,Spring,Google Ads,Discounted,Returning,82.76,4,335.8
+2025-01-30,Spring,Referrals,Premium,New,53.87,5,207.95
+2025-01-30,Spring,Instagram,Premium,New,92.62,8,182.65
+2025-01-30,Spring,Instagram,Discounted,Returning,69.03,9,559.41
+2025-01-31,Spring,Flyers,Premium,New,14.41,7,350.76
+2025-01-31,Spring,Flyers,Discounted,Returning,83.5,6,265.45
+2025-01-31,Spring,Referrals,Discounted,Returning,29.8,1,16.15
+2025-01-31,Spring,Referrals,Discounted,Returning,8.25,9,584.86
+2025-02-01,Spring,Google Ads,Discounted,New,82.65,1,82.22
+2025-02-01,Spring,Google Ads,Standard,Returning,18.26,9,582.75
+2025-02-01,Spring,Instagram,Standard,New,34.87,6,569.54
+2025-02-01,Spring,Flyers,Premium,Returning,42.99,1,91.33
+2025-02-01,Spring,Google Ads,Discounted,Returning,62.97,0,0.0
+2025-02-01,Spring,Google Ads,Premium,New,98.06,1,74.38
+2025-02-01,Spring,Referrals,Premium,New,40.87,4,261.06
+2025-02-02,Spring,Instagram,Premium,New,27.0,8,220.44
+2025-02-02,Spring,Facebook,Discounted,New,44.46,8,307.29
+2025-02-02,Spring,Google Ads,Premium,Returning,28.71,7,155.29
+2025-02-02,Spring,Instagram,Standard,Returning,60.12,7,291.93
+2025-02-03,Spring,Facebook,Premium,Returning,86.81,8,158.63
+2025-02-03,Spring,Flyers,Premium,New,97.41,8,201.96
+2025-02-03,Spring,Google Ads,Premium,Returning,10.33,7,477.19
+2025-02-03,Spring,Google Ads,Discounted,New,60.03,1,32.15
+2025-02-03,Spring,Google Ads,Premium,New,42.65,4,293.76
+2025-02-03,Spring,Flyers,Premium,Returning,54.42,2,92.73
+2025-02-03,Spring,Facebook,Standard,New,42.83,5,387.89
+2025-02-03,Spring,Instagram,Standard,New,80.95,6,429.12
+2025-02-03,Spring,Facebook,Standard,New,95.47,4,292.29
+2025-02-04,Spring,Referrals,Standard,New,62.77,1,18.46
+2025-02-04,Spring,Facebook,Premium,Returning,35.82,10,734.5
+2025-02-04,Spring,Flyers,Discounted,New,43.61,2,95.64
+2025-02-04,Spring,Instagram,Premium,New,29.52,10,690.61
+2025-02-04,Spring,Flyers,Standard,New,39.21,9,774.67
+2025-02-04,Spring,Instagram,Premium,Returning,31.98,7,602.71
+2025-02-04,Spring,Google Ads,Discounted,New,77.35,4,277.53
+2025-02-04,Spring,Facebook,Standard,Returning,13.37,9,522.27
+2025-02-04,Spring,Google Ads,Discounted,Returning,83.64,10,623.19
+2025-02-04,Spring,Instagram,Premium,New,39.12,6,220.51
+2025-02-04,Spring,Facebook,Premium,New,48.93,2,139.94
+2025-02-05,Spring,Facebook,Premium,Returning,28.03,3,138.13
+2025-02-05,Spring,Google Ads,Standard,New,50.55,10,256.99
+2025-02-05,Spring,Google Ads,Standard,New,94.93,1,71.05
+2025-02-05,Spring,Facebook,Discounted,Returning,22.73,5,394.64
+2025-02-05,Spring,Instagram,Standard,New,11.3,3,123.88
+2025-02-05,Spring,Flyers,Standard,Returning,91.7,3,163.52
+2025-02-05,Spring,Flyers,Premium,New,33.64,9,743.7
+2025-02-06,Spring,Google Ads,Premium,Returning,27.37,1,34.36
+2025-02-06,Spring,Flyers,Discounted,Returning,96.81,0,0.0
+2025-02-06,Spring,Referrals,Discounted,Returning,57.78,10,742.26
+2025-02-06,Spring,Referrals,Premium,Returning,40.26,10,656.15
+2025-02-06,Spring,Flyers,Standard,Returning,36.27,6,499.62
+2025-02-06,Spring,Flyers,Standard,Returning,22.7,10,965.78
+2025-02-06,Spring,Referrals,Standard,Returning,88.11,5,206.0
+2025-02-06,Spring,Google Ads,Standard,Returning,26.61,3,188.68
+2025-02-06,Spring,Facebook,Discounted,Returning,64.73,1,33.29
+2025-02-07,Spring,Facebook,Standard,New,45.96,8,551.5
+2025-02-07,Spring,Flyers,Standard,New,41.17,1,30.14
+2025-02-07,Spring,Google Ads,Standard,Returning,55.82,7,399.42
+2025-02-07,Spring,Instagram,Standard,Returning,63.58,1,96.4
+2025-02-08,Spring,Facebook,Discounted,New,73.08,9,733.37
+2025-02-08,Spring,Facebook,Discounted,Returning,92.1,4,390.13
+2025-02-08,Spring,Facebook,Standard,New,43.81,2,68.68
+2025-02-09,Spring,Facebook,Standard,Returning,42.14,5,421.75
+2025-02-09,Spring,Flyers,Standard,New,23.71,2,72.14
+2025-02-09,Spring,Instagram,Standard,New,23.25,7,571.78
+2025-02-09,Spring,Google Ads,Standard,New,60.0,3,253.89
+2025-02-09,Spring,Instagram,Standard,New,12.45,0,0.0
+2025-02-10,Spring,Flyers,Discounted,Returning,62.04,8,652.21
+2025-02-10,Spring,Flyers,Premium,New,11.71,8,458.43
+2025-02-10,Spring,Referrals,Standard,New,25.56,7,368.37
+2025-02-10,Spring,Referrals,Premium,Returning,7.41,10,251.48
+2025-02-10,Spring,Referrals,Standard,Returning,92.37,10,565.64
+2025-02-11,Spring,Referrals,Premium,New,79.88,5,356.41
+2025-02-11,Spring,Referrals,Premium,New,54.34,2,103.54
+2025-02-11,Spring,Facebook,Standard,New,28.01,5,293.86
+2025-02-11,Spring,Referrals,Discounted,Returning,84.85,8,653.69
+2025-02-11,Spring,Referrals,Standard,Returning,49.87,4,133.89
+2025-02-11,Spring,Facebook,Premium,Returning,44.23,2,150.9
+2025-02-12,Spring,Instagram,Premium,Returning,60.46,10,278.36
+2025-02-12,Spring,Facebook,Standard,New,38.7,9,141.28
+2025-02-13,Spring,Google Ads,Standard,New,16.2,1,77.68
+2025-02-13,Spring,Instagram,Premium,Returning,60.26,10,484.77
+2025-02-13,Spring,Google Ads,Standard,New,63.27,7,560.56
+2025-02-13,Spring,Referrals,Premium,Returning,82.32,7,498.29
+2025-02-13,Spring,Google Ads,Standard,New,58.1,10,789.69
+2025-02-13,Spring,Instagram,Standard,Returning,42.92,9,448.89
+2025-02-13,Spring,Instagram,Premium,Returning,53.38,5,393.47
+2025-02-14,Spring,Referrals,Discounted,Returning,43.86,5,162.56
+2025-02-14,Spring,Facebook,Premium,Returning,57.28,4,118.91
+2025-02-14,Spring,Flyers,Premium,Returning,69.02,4,379.45
+2025-02-14,Spring,Facebook,Discounted,Returning,82.58,6,95.61
+2025-02-15,Spring,Google Ads,Standard,Returning,15.58,7,188.43
+2025-02-15,Spring,Instagram,Standard,New,68.56,9,806.56
+2025-02-15,Spring,Referrals,Standard,New,24.26,8,695.61
+2025-02-16,Spring,Referrals,Premium,Returning,97.64,7,371.63
+2025-02-16,Spring,Instagram,Premium,New,50.66,0,0.0
+2025-02-16,Spring,Google Ads,Standard,New,15.0,6,561.74
+2025-02-16,Spring,Facebook,Premium,Returning,92.5,3,247.79
+2025-02-16,Spring,Referrals,Premium,Returning,79.86,0,0.0
+2025-02-16,Spring,Facebook,Premium,Returning,7.65,1,62.4
+2025-02-16,Spring,Google Ads,Discounted,New,67.81,4,315.07
+2025-02-17,Spring,Facebook,Premium,New,77.16,5,144.49
+2025-02-17,Spring,Referrals,Premium,Returning,70.63,10,552.33
+2025-02-17,Spring,Flyers,Discounted,New,79.66,1,20.36
+2025-02-18,Spring,Flyers,Standard,Returning,19.08,9,300.77
+2025-02-18,Spring,Instagram,Premium,New,81.38,9,395.04
+2025-02-18,Spring,Referrals,Standard,Returning,33.13,9,296.99
+2025-02-18,Spring,Instagram,Premium,New,87.93,5,452.9
+2025-02-19,Spring,Google Ads,Premium,New,28.71,8,769.31
+2025-02-19,Spring,Flyers,Premium,Returning,30.39,3,60.23
+2025-02-19,Spring,Google Ads,Premium,New,17.42,9,765.36
+2025-02-19,Spring,Google Ads,Premium,New,61.16,0,0.0
+2025-02-19,Spring,Referrals,Premium,New,13.33,10,376.22
+2025-02-19,Spring,Facebook,Standard,Returning,42.29,4,323.33
+2025-02-19,Spring,Google Ads,Premium,New,42.55,5,200.16
+2025-02-20,Spring,Instagram,Premium,New,42.69,7,180.92
+2025-02-20,Spring,Instagram,Standard,Returning,22.68,8,476.08
+2025-02-20,Spring,Instagram,Premium,Returning,79.34,3,174.52
+2025-02-20,Spring,Flyers,Premium,Returning,38.1,3,265.72
+2025-02-20,Spring,Instagram,Standard,Returning,91.1,8,167.37
+2025-02-20,Spring,Referrals,Standard,Returning,67.85,10,952.25
+2025-02-20,Spring,Google Ads,Discounted,Returning,42.33,4,95.61
+2025-02-20,Spring,Google Ads,Discounted,Returning,6.6,5,203.15
+2025-02-21,Spring,Google Ads,Discounted,Returning,85.32,1,59.09
+2025-02-21,Spring,Instagram,Discounted,Returning,73.21,2,180.77
+2025-02-21,Spring,Referrals,Premium,New,51.35,0,0.0
+2025-02-21,Spring,Referrals,Discounted,Returning,27.1,0,0.0
+2025-02-21,Spring,Instagram,Discounted,Returning,41.49,8,297.82
+2025-02-22,Spring,Flyers,Discounted,Returning,7.21,10,344.25
+2025-02-22,Spring,Facebook,Discounted,Returning,23.83,6,502.65
+2025-02-22,Spring,Facebook,Standard,Returning,11.93,8,380.8
+2025-02-22,Spring,Google Ads,Standard,New,96.03,8,734.59
+2025-02-22,Spring,Facebook,Discounted,Returning,35.17,5,291.96
+2025-02-23,Spring,Referrals,Standard,New,99.32,6,508.6
+2025-02-23,Spring,Instagram,Standard,New,52.39,5,235.13
+2025-02-23,Spring,Instagram,Standard,Returning,16.39,7,613.18
+2025-02-23,Spring,Google Ads,Discounted,Returning,46.61,10,162.01
+2025-02-24,Spring,Google Ads,Discounted,New,51.1,4,302.53
+2025-02-24,Spring,Referrals,Standard,Returning,53.24,1,96.72
+2025-02-25,Spring,Google Ads,Premium,Returning,68.85,1,46.85
+2025-02-25,Spring,Instagram,Discounted,Returning,20.54,2,139.83
+2025-02-25,Spring,Facebook,Standard,New,94.96,5,163.04
+2025-02-25,Spring,Referrals,Discounted,New,84.24,8,266.86
+2025-02-25,Spring,Referrals,Standard,Returning,44.85,9,247.72
+2025-02-25,Spring,Google Ads,Standard,Returning,18.24,10,841.16
+2025-02-25,Spring,Facebook,Discounted,Returning,93.58,1,46.26
+2025-02-25,Spring,Facebook,Standard,Returning,45.86,0,0.0
+2025-02-25,Spring,Google Ads,Standard,New,77.78,5,113.67
+2025-02-25,Spring,Flyers,Premium,Returning,35.67,5,147.5
+2025-02-26,Spring,Instagram,Premium,Returning,7.67,0,0.0
+2025-02-26,Spring,Flyers,Premium,New,12.45,9,522.13
+2025-02-26,Spring,Google Ads,Premium,Returning,45.82,5,268.76
+2025-02-26,Spring,Instagram,Discounted,Returning,53.96,8,652.97
+2025-02-26,Spring,Google Ads,Discounted,Returning,9.43,7,380.92
+2025-02-26,Spring,Facebook,Discounted,New,55.3,1,44.15
+2025-02-26,Spring,Instagram,Standard,New,52.18,10,679.39
+2025-02-27,Spring,Facebook,Premium,Returning,10.64,8,717.57
+2025-02-27,Spring,Instagram,Standard,New,42.88,8,705.37
+2025-02-27,Spring,Facebook,Standard,Returning,11.65,2,167.95
+2025-02-27,Spring,Flyers,Standard,New,61.02,10,304.08
+2025-02-28,Spring,Referrals,Standard,New,87.28,2,178.05
+2025-02-28,Spring,Flyers,Standard,New,45.43,2,78.5
+2025-02-28,Spring,Facebook,Standard,Returning,88.51,5,360.21
+2025-02-28,Spring,Referrals,Standard,New,91.19,0,0.0
+2025-03-01,Summer,Referrals,Standard,New,28.59,1,55.9
+2025-03-01,Summer,Facebook,Discounted,Returning,54.27,7,497.96
+2025-03-01,Summer,Referrals,Standard,New,93.66,5,185.71
+2025-03-01,Summer,Flyers,Premium,New,89.27,2,140.29
+2025-03-01,Summer,Referrals,Discounted,New,72.12,2,62.82
+2025-03-01,Summer,Google Ads,Standard,Returning,82.27,0,0.0
+2025-03-01,Summer,Referrals,Premium,New,48.61,3,168.47
+2025-03-02,Summer,Google Ads,Premium,New,36.67,6,198.13
+2025-03-02,Summer,Referrals,Discounted,Returning,49.96,9,414.05
+2025-03-02,Summer,Instagram,Standard,Returning,86.11,2,139.0
+2025-03-03,Summer,Google Ads,Discounted,Returning,70.74,2,116.22
+2025-03-03,Summer,Facebook,Standard,Returning,15.82,10,348.55
+2025-03-03,Summer,Google Ads,Standard,New,64.56,7,408.65
+2025-03-03,Summer,Referrals,Premium,New,95.72,4,328.99
+2025-03-03,Summer,Instagram,Standard,New,61.32,6,90.88
+2025-03-04,Summer,Facebook,Discounted,Returning,66.14,7,420.37
+2025-03-04,Summer,Google Ads,Discounted,New,30.11,4,379.32
+2025-03-04,Summer,Instagram,Standard,New,33.7,8,416.38
+2025-03-04,Summer,Google Ads,Discounted,New,84.15,1,93.54
+2025-03-04,Summer,Google Ads,Premium,Returning,56.19,5,328.14
+2025-03-04,Summer,Google Ads,Standard,Returning,97.56,4,336.26
+2025-03-05,Summer,Referrals,Standard,Returning,93.17,1,74.05
+2025-03-05,Summer,Flyers,Standard,New,20.69,6,331.09
+2025-03-05,Summer,Facebook,Premium,Returning,35.36,3,214.08
+2025-03-05,Summer,Google Ads,Standard,Returning,30.25,5,226.51
+2025-03-05,Summer,Instagram,Premium,New,18.03,5,177.1
+2025-03-06,Summer,Facebook,Discounted,New,51.21,9,358.44
+2025-03-06,Summer,Google Ads,Standard,Returning,48.11,8,189.33
+2025-03-06,Summer,Google Ads,Premium,Returning,14.21,2,127.67
+2025-03-06,Summer,Referrals,Standard,New,20.95,1,60.93
+2025-03-06,Summer,Google Ads,Premium,New,16.51,1,45.8
+2025-03-06,Summer,Google Ads,Discounted,New,64.86,4,74.52
+2025-03-07,Summer,Referrals,Premium,New,31.77,4,196.9
+2025-03-07,Summer,Instagram,Premium,New,42.27,5,108.31
+2025-03-07,Summer,Flyers,Standard,New,68.26,2,131.51
+2025-03-07,Summer,Referrals,Discounted,New,96.39,5,433.77
+2025-03-07,Summer,Google Ads,Discounted,Returning,59.67,8,195.07
+2025-03-08,Summer,Facebook,Discounted,Returning,43.53,9,428.06
+2025-03-08,Summer,Google Ads,Premium,Returning,16.85,2,77.75
+2025-03-08,Summer,Instagram,Standard,New,49.23,10,296.77
+2025-03-09,Summer,Flyers,Discounted,New,54.59,5,326.83
+2025-03-09,Summer,Instagram,Discounted,Returning,12.61,6,317.85
+2025-03-09,Summer,Instagram,Standard,New,46.03,3,244.81
+2025-03-09,Summer,Instagram,Standard,Returning,7.13,0,0.0
+2025-03-09,Summer,Google Ads,Standard,New,45.84,5,187.35
+2025-03-09,Summer,Referrals,Premium,Returning,22.6,9,707.18
+2025-03-09,Summer,Flyers,Discounted,Returning,40.57,0,0.0
+2025-03-10,Summer,Instagram,Premium,New,83.0,10,290.76
+2025-03-10,Summer,Google Ads,Discounted,Returning,97.9,10,927.13
+2025-03-10,Summer,Flyers,Discounted,New,74.75,4,162.9
+2025-03-10,Summer,Facebook,Standard,New,21.9,3,104.38
+2025-03-10,Summer,Instagram,Discounted,New,35.63,3,106.25
+2025-03-10,Summer,Instagram,Premium,Returning,21.06,0,0.0
+2025-03-10,Summer,Referrals,Premium,Returning,55.64,1,15.81
+2025-03-10,Summer,Referrals,Standard,New,92.44,8,564.4
+2025-03-10,Summer,Flyers,Discounted,New,79.34,7,691.59
+2025-03-10,Summer,Flyers,Discounted,New,40.57,6,354.99
+2025-03-10,Summer,Google Ads,Discounted,Returning,6.19,4,239.52
+2025-03-11,Summer,Flyers,Discounted,Returning,5.87,6,227.11
+2025-03-11,Summer,Referrals,Premium,Returning,14.29,7,485.74
+2025-03-11,Summer,Facebook,Discounted,Returning,64.57,6,490.05
+2025-03-11,Summer,Google Ads,Discounted,Returning,19.47,2,185.28
+2025-03-11,Summer,Flyers,Premium,New,40.04,8,341.32
+2025-03-11,Summer,Referrals,Discounted,Returning,59.82,10,341.15
+2025-03-12,Summer,Google Ads,Standard,Returning,94.17,2,68.69
+2025-03-12,Summer,Flyers,Discounted,Returning,63.98,5,471.63
+2025-03-12,Summer,Referrals,Premium,Returning,80.77,10,667.66
+2025-03-12,Summer,Google Ads,Discounted,Returning,14.75,9,453.47
+2025-03-13,Summer,Google Ads,Premium,Returning,92.09,3,160.72
+2025-03-13,Summer,Facebook,Discounted,Returning,56.02,1,55.52
+2025-03-13,Summer,Instagram,Standard,New,93.69,10,576.47
+2025-03-13,Summer,Google Ads,Premium,New,43.33,9,741.59
+2025-03-13,Summer,Referrals,Premium,New,28.03,5,196.22
+2025-03-14,Summer,Referrals,Discounted,New,69.47,10,516.8
+2025-03-14,Summer,Flyers,Discounted,New,68.15,10,969.22
+2025-03-14,Summer,Facebook,Premium,Returning,28.56,2,99.16
+2025-03-14,Summer,Referrals,Discounted,New,30.67,7,342.42
+2025-03-14,Summer,Facebook,Discounted,Returning,57.84,9,691.06
+2025-03-15,Summer,Google Ads,Discounted,New,71.31,5,172.43
+2025-03-15,Summer,Referrals,Premium,New,9.73,2,52.25
+2025-03-15,Summer,Google Ads,Premium,Returning,86.81,5,409.09
+2025-03-15,Summer,Referrals,Standard,New,51.97,5,480.69
+2025-03-15,Summer,Facebook,Standard,New,29.35,10,235.04
+2025-03-15,Summer,Referrals,Discounted,Returning,60.33,4,295.7
+2025-03-15,Summer,Google Ads,Standard,New,34.77,7,621.77
+2025-03-16,Summer,Instagram,Standard,Returning,32.22,7,391.44
+2025-03-16,Summer,Facebook,Discounted,Returning,95.61,9,186.16
+2025-03-16,Summer,Instagram,Discounted,New,12.65,4,247.61
+2025-03-16,Summer,Flyers,Discounted,New,6.99,9,589.24
+2025-03-16,Summer,Instagram,Premium,New,47.31,0,0.0
+2025-03-16,Summer,Instagram,Discounted,Returning,73.35,1,63.12
+2025-03-16,Summer,Google Ads,Premium,Returning,36.61,5,187.92
+2025-03-16,Summer,Instagram,Discounted,New,69.75,10,749.78
+2025-03-16,Summer,Facebook,Premium,New,9.82,6,569.75
+2025-03-17,Summer,Facebook,Discounted,Returning,57.1,10,489.83
+2025-03-17,Summer,Referrals,Standard,New,99.74,3,215.28
+2025-03-17,Summer,Google Ads,Premium,Returning,63.33,0,0.0
+2025-03-18,Summer,Facebook,Premium,Returning,29.07,2,141.57
+2025-03-18,Summer,Referrals,Standard,Returning,45.38,8,742.59
+2025-03-18,Summer,Facebook,Premium,New,57.96,5,79.83
+2025-03-18,Summer,Facebook,Standard,New,81.7,2,172.51
+2025-03-18,Summer,Flyers,Discounted,New,94.85,1,28.4
+2025-03-18,Summer,Google Ads,Discounted,New,17.3,0,0.0
+2025-03-18,Summer,Referrals,Discounted,New,88.58,5,353.23
+2025-03-18,Summer,Instagram,Premium,New,42.17,1,37.66
+2025-03-18,Summer,Facebook,Premium,New,60.73,6,507.0
+2025-03-19,Summer,Referrals,Premium,New,41.73,9,204.73
+2025-03-19,Summer,Google Ads,Premium,New,37.36,1,43.71
+2025-03-19,Summer,Google Ads,Discounted,New,78.42,4,83.12
+2025-03-19,Summer,Referrals,Discounted,New,67.14,4,163.07
+2025-03-20,Summer,Flyers,Premium,Returning,47.81,9,880.9
+2025-03-20,Summer,Instagram,Discounted,Returning,99.69,7,634.63
+2025-03-20,Summer,Instagram,Discounted,Returning,93.63,0,0.0
+2025-03-20,Summer,Referrals,Discounted,Returning,44.47,4,368.68
+2025-03-20,Summer,Referrals,Premium,Returning,93.42,9,784.92
+2025-03-20,Summer,Google Ads,Premium,New,63.33,7,227.93
+2025-03-20,Summer,Referrals,Premium,New,5.26,6,521.04
+2025-03-21,Summer,Referrals,Premium,New,58.91,7,590.48
+2025-03-21,Summer,Facebook,Premium,Returning,77.77,8,446.4
+2025-03-21,Summer,Flyers,Discounted,New,88.19,8,285.12
+2025-03-21,Summer,Referrals,Standard,New,75.15,10,197.46
+2025-03-21,Summer,Referrals,Discounted,Returning,21.92,8,659.07
+2025-03-21,Summer,Flyers,Discounted,New,82.49,9,397.31
+2025-03-21,Summer,Facebook,Discounted,Returning,74.07,3,171.17
+2025-03-21,Summer,Google Ads,Standard,New,54.33,2,190.49
+2025-03-21,Summer,Referrals,Standard,New,66.16,10,269.37
+2025-03-21,Summer,Facebook,Standard,Returning,13.53,2,184.5
+2025-03-22,Summer,Flyers,Premium,New,81.42,4,98.56
+2025-03-22,Summer,Referrals,Standard,New,48.88,8,141.43
+2025-03-22,Summer,Google Ads,Premium,Returning,10.64,8,641.78
+2025-03-22,Summer,Google Ads,Premium,New,86.46,7,378.21
+2025-03-22,Summer,Flyers,Discounted,New,10.04,1,56.44
+2025-03-22,Summer,Referrals,Standard,Returning,48.5,8,476.16
+2025-03-22,Summer,Facebook,Discounted,New,99.82,10,674.97
+2025-03-23,Summer,Facebook,Standard,Returning,9.18,1,96.49
+2025-03-23,Summer,Flyers,Discounted,New,80.75,6,176.58
+2025-03-23,Summer,Referrals,Premium,New,55.73,10,908.25
+2025-03-23,Summer,Referrals,Standard,Returning,83.61,2,173.98
+2025-03-23,Summer,Flyers,Standard,New,73.29,7,129.62
+2025-03-24,Summer,Referrals,Premium,Returning,97.1,8,544.45
+2025-03-24,Summer,Facebook,Standard,Returning,83.48,4,348.69
+2025-03-24,Summer,Flyers,Premium,New,22.26,10,514.54
+2025-03-24,Summer,Flyers,Standard,Returning,67.39,10,440.79
+2025-03-24,Summer,Facebook,Standard,Returning,87.07,8,726.57
+2025-03-24,Summer,Referrals,Discounted,New,59.55,5,225.7
+2025-03-24,Summer,Instagram,Premium,New,38.2,2,133.06
+2025-03-25,Summer,Instagram,Standard,Returning,30.32,0,0.0
+2025-03-25,Summer,Instagram,Discounted,Returning,65.88,0,0.0
+2025-03-25,Summer,Google Ads,Standard,Returning,80.23,2,170.25
+2025-03-25,Summer,Flyers,Standard,New,60.56,4,225.76
+2025-03-25,Summer,Referrals,Standard,New,16.47,0,0.0
+2025-03-25,Summer,Referrals,Standard,Returning,13.99,7,372.79
+2025-03-26,Summer,Google Ads,Premium,Returning,29.58,1,89.56
+2025-03-26,Summer,Instagram,Standard,New,39.87,5,290.7
+2025-03-26,Summer,Instagram,Standard,Returning,69.77,5,90.06
+2025-03-26,Summer,Google Ads,Discounted,Returning,96.47,5,309.41
+2025-03-26,Summer,Referrals,Discounted,Returning,80.9,5,230.59
+2025-03-26,Summer,Facebook,Premium,Returning,77.72,10,856.51
+2025-03-26,Summer,Instagram,Standard,Returning,81.6,10,764.59
+2025-03-26,Summer,Facebook,Premium,New,42.12,2,100.88
+2025-03-27,Summer,Referrals,Discounted,New,91.76,1,19.06
+2025-03-27,Summer,Facebook,Standard,Returning,67.93,4,291.53
+2025-03-27,Summer,Flyers,Discounted,New,88.86,7,541.36
+2025-03-27,Summer,Facebook,Standard,Returning,5.24,7,157.97
+2025-03-28,Summer,Instagram,Standard,Returning,90.11,3,273.12
+2025-03-28,Summer,Referrals,Discounted,Returning,24.42,10,805.38
+2025-03-28,Summer,Referrals,Premium,New,70.49,7,606.67
+2025-03-28,Summer,Facebook,Discounted,Returning,25.93,3,154.47
+2025-03-28,Summer,Google Ads,Premium,New,72.19,8,352.95
+2025-03-28,Summer,Instagram,Premium,Returning,69.72,6,222.7
+2025-03-28,Summer,Facebook,Standard,New,58.2,9,851.44
+2025-03-28,Summer,Facebook,Premium,New,43.45,0,0.0
+2025-03-29,Summer,Instagram,Discounted,Returning,73.83,3,264.49
+2025-03-29,Summer,Instagram,Standard,Returning,78.34,2,77.67
+2025-03-29,Summer,Referrals,Discounted,New,32.68,8,359.91
+2025-03-29,Summer,Instagram,Standard,New,38.51,1,40.81
+2025-03-29,Summer,Flyers,Standard,Returning,90.53,2,67.42
+2025-03-29,Summer,Flyers,Premium,Returning,33.15,2,82.02
+2025-03-29,Summer,Google Ads,Standard,New,50.08,3,90.33
+2025-03-30,Summer,Instagram,Standard,New,40.82,2,138.09
+2025-03-30,Summer,Google Ads,Discounted,Returning,61.66,2,161.08
+2025-03-30,Summer,Flyers,Standard,New,19.64,3,284.27
+2025-03-30,Summer,Instagram,Standard,New,26.89,6,496.3
+2025-03-30,Summer,Google Ads,Premium,Returning,58.04,6,447.86
+2025-03-30,Summer,Referrals,Premium,New,50.83,1,50.72
+2025-03-31,Summer,Instagram,Discounted,New,68.66,6,205.68
+2025-03-31,Summer,Instagram,Premium,Returning,70.19,0,0.0
+2025-03-31,Summer,Google Ads,Standard,New,77.87,1,66.94
+2025-03-31,Summer,Facebook,Premium,Returning,23.67,9,265.83
+2025-03-31,Summer,Referrals,Premium,New,91.82,8,442.04
+2025-04-01,Summer,Instagram,Premium,Returning,19.62,2,64.54
+2025-04-01,Summer,Google Ads,Premium,Returning,18.93,8,471.47
+2025-04-01,Summer,Google Ads,Standard,Returning,91.0,3,181.42
+2025-04-01,Summer,Facebook,Discounted,Returning,11.08,8,552.01
+2025-04-01,Summer,Referrals,Discounted,New,50.69,6,398.05
+2025-04-01,Summer,Facebook,Standard,New,33.26,0,0.0
+2025-04-01,Summer,Facebook,Discounted,Returning,79.47,2,195.2
+2025-04-01,Summer,Google Ads,Premium,Returning,16.03,1,15.73
+2025-04-01,Summer,Google Ads,Standard,New,37.85,0,0.0
+2025-04-02,Summer,Flyers,Premium,Returning,85.06,7,216.04
+2025-04-02,Summer,Referrals,Premium,New,42.54,0,0.0
+2025-04-02,Summer,Instagram,Standard,New,35.48,10,586.41
+2025-04-02,Summer,Instagram,Discounted,Returning,41.62,1,56.86
+2025-04-03,Summer,Instagram,Discounted,Returning,65.16,6,219.1
+2025-04-03,Summer,Flyers,Discounted,New,52.35,1,94.06
+2025-04-03,Summer,Flyers,Standard,New,47.16,8,230.8
+2025-04-03,Summer,Facebook,Standard,New,81.37,5,128.04
+2025-04-04,Summer,Facebook,Standard,New,23.48,0,0.0
+2025-04-04,Summer,Google Ads,Discounted,New,44.7,5,415.27
+2025-04-04,Summer,Referrals,Discounted,New,96.85,5,408.89
+2025-04-04,Summer,Referrals,Standard,Returning,51.34,3,135.07
+2025-04-05,Summer,Flyers,Premium,Returning,42.35,6,446.77
+2025-04-05,Summer,Google Ads,Discounted,Returning,35.88,6,378.98
+2025-04-05,Summer,Flyers,Standard,Returning,7.35,9,219.92
+2025-04-05,Summer,Referrals,Premium,Returning,39.26,10,439.43
+2025-04-05,Summer,Google Ads,Premium,New,19.13,3,178.96
+2025-04-05,Summer,Referrals,Discounted,Returning,94.0,6,449.51
+2025-04-05,Summer,Referrals,Premium,New,38.51,6,123.49
+2025-04-05,Summer,Referrals,Discounted,New,89.26,6,92.5
+2025-04-05,Summer,Referrals,Standard,Returning,72.81,7,136.19
+2025-04-06,Summer,Facebook,Discounted,Returning,36.79,0,0.0
+2025-04-06,Summer,Instagram,Standard,Returning,96.83,8,567.33
+2025-04-06,Summer,Facebook,Discounted,New,44.72,6,366.37
+2025-04-06,Summer,Facebook,Discounted,Returning,51.04,5,312.59
+2025-04-06,Summer,Google Ads,Discounted,New,40.86,3,142.09
+2025-04-06,Summer,Google Ads,Premium,New,5.31,9,544.16
+2025-04-06,Summer,Referrals,Standard,Returning,53.75,7,376.33
+2025-04-07,Summer,Flyers,Premium,New,26.3,5,411.47
+2025-04-07,Summer,Facebook,Premium,Returning,72.44,6,225.01
+2025-04-07,Summer,Facebook,Premium,Returning,99.18,1,30.92
+2025-04-07,Summer,Facebook,Standard,New,87.8,9,320.02
+2025-04-07,Summer,Flyers,Discounted,Returning,34.62,7,353.65
+2025-04-07,Summer,Referrals,Standard,New,20.82,3,81.27
+2025-04-07,Summer,Facebook,Standard,New,80.06,1,48.45
+2025-04-07,Summer,Instagram,Premium,Returning,77.76,3,165.68
+2025-04-07,Summer,Google Ads,Standard,New,38.63,6,510.81
+2025-04-07,Summer,Instagram,Discounted,Returning,98.77,2,187.47
+2025-04-07,Summer,Google Ads,Discounted,New,89.71,2,188.45
+2025-04-07,Summer,Flyers,Standard,New,83.48,5,88.64
+2025-04-08,Summer,Flyers,Standard,New,71.64,10,558.79
+2025-04-08,Summer,Referrals,Discounted,New,31.38,2,129.79
+2025-04-08,Summer,Facebook,Premium,Returning,51.79,10,258.85
+2025-04-08,Summer,Referrals,Discounted,New,37.56,6,318.0
+2025-04-08,Summer,Referrals,Discounted,New,98.21,3,200.26
+2025-04-08,Summer,Referrals,Standard,New,66.18,2,128.25
+2025-04-09,Summer,Referrals,Premium,New,75.37,0,0.0
+2025-04-09,Summer,Flyers,Discounted,New,7.76,10,379.97
+2025-04-09,Summer,Facebook,Standard,New,92.88,3,219.33
+2025-04-09,Summer,Referrals,Premium,New,84.84,3,100.39
+2025-04-10,Summer,Google Ads,Premium,New,38.77,7,337.07
+2025-04-10,Summer,Flyers,Premium,New,41.41,1,72.77
+2025-04-11,Summer,Facebook,Standard,Returning,74.45,9,515.69
+2025-04-11,Summer,Google Ads,Discounted,New,42.05,10,363.32
+2025-04-11,Summer,Referrals,Premium,Returning,45.86,5,227.76
+2025-04-12,Summer,Flyers,Standard,Returning,89.51,9,590.4
+2025-04-12,Summer,Referrals,Discounted,Returning,81.18,8,261.73
+2025-04-13,Summer,Google Ads,Standard,Returning,29.42,4,220.32
+2025-04-13,Summer,Instagram,Discounted,New,66.44,6,345.84
+2025-04-13,Summer,Google Ads,Premium,Returning,49.37,2,94.63
+2025-04-13,Summer,Referrals,Discounted,New,18.26,9,873.21
+2025-04-13,Summer,Google Ads,Discounted,New,61.89,2,75.01
+2025-04-13,Summer,Flyers,Standard,New,28.64,6,257.91
+2025-04-13,Summer,Facebook,Premium,New,59.09,2,105.39
+2025-04-13,Summer,Referrals,Premium,Returning,35.49,8,492.13
+2025-04-13,Summer,Facebook,Standard,Returning,76.69,3,48.58
+2025-04-14,Summer,Facebook,Premium,New,61.52,3,210.97
+2025-04-14,Summer,Instagram,Premium,Returning,47.83,5,163.05
+2025-04-14,Summer,Flyers,Standard,New,74.72,0,0.0
+2025-04-14,Summer,Instagram,Premium,New,55.06,3,67.23
+2025-04-14,Summer,Google Ads,Standard,New,52.84,6,479.17
+2025-04-14,Summer,Facebook,Standard,Returning,68.49,8,304.13
+2025-04-14,Summer,Facebook,Premium,New,65.21,3,168.63
+2025-04-14,Summer,Instagram,Premium,New,64.37,6,416.21
+2025-04-15,Summer,Flyers,Discounted,Returning,95.97,2,178.08
+2025-04-15,Summer,Google Ads,Premium,New,9.72,10,599.44
+2025-04-15,Summer,Google Ads,Premium,New,53.09,6,558.92
+2025-04-16,Summer,Facebook,Standard,New,87.94,1,50.04
+2025-04-16,Summer,Flyers,Discounted,Returning,98.76,8,373.47
+2025-04-16,Summer,Google Ads,Premium,New,97.68,8,641.01
+2025-04-16,Summer,Google Ads,Premium,New,81.53,0,0.0
+2025-04-16,Summer,Facebook,Standard,New,10.22,8,267.62
+2025-04-17,Summer,Instagram,Premium,New,33.18,8,559.2
+2025-04-17,Summer,Referrals,Standard,Returning,11.68,0,0.0
+2025-04-17,Summer,Referrals,Discounted,New,30.44,7,264.75
+2025-04-17,Summer,Google Ads,Discounted,Returning,62.66,7,252.08
+2025-04-17,Summer,Instagram,Standard,Returning,96.84,3,175.54
+2025-04-17,Summer,Google Ads,Discounted,New,67.86,0,0.0
+2025-04-18,Summer,Flyers,Discounted,Returning,63.4,6,136.35
+2025-04-18,Summer,Flyers,Discounted,New,18.36,0,0.0
+2025-04-18,Summer,Flyers,Discounted,New,95.62,3,136.48
+2025-04-18,Summer,Referrals,Discounted,Returning,65.02,6,148.82
+2025-04-18,Summer,Instagram,Premium,Returning,82.42,7,511.25
+2025-04-18,Summer,Instagram,Discounted,Returning,68.22,9,673.05
+2025-04-19,Summer,Instagram,Discounted,New,65.4,0,0.0
+2025-04-19,Summer,Referrals,Standard,New,45.99,0,0.0
+2025-04-19,Summer,Instagram,Premium,New,9.73,4,188.61
+2025-04-20,Summer,Google Ads,Standard,Returning,31.03,8,316.86
+2025-04-20,Summer,Referrals,Discounted,New,50.03,2,168.05
+2025-04-20,Summer,Flyers,Standard,Returning,83.73,1,20.97
+2025-04-21,Summer,Referrals,Standard,Returning,54.91,5,340.65
+2025-04-21,Summer,Referrals,Premium,New,86.86,3,205.8
+2025-04-21,Summer,Instagram,Discounted,Returning,45.18,2,161.43
+2025-04-22,Summer,Instagram,Standard,Returning,66.45,10,415.8
+2025-04-22,Summer,Referrals,Premium,Returning,22.39,2,128.05
+2025-04-22,Summer,Referrals,Discounted,New,70.25,6,456.2
+2025-04-22,Summer,Google Ads,Premium,Returning,64.17,10,546.57
+2025-04-22,Summer,Facebook,Premium,New,24.01,4,118.79
+2025-04-22,Summer,Google Ads,Discounted,New,49.07,8,757.28
+2025-04-22,Summer,Instagram,Premium,New,85.7,3,209.29
+2025-04-22,Summer,Referrals,Discounted,New,29.37,0,0.0
+2025-04-22,Summer,Instagram,Premium,New,13.31,0,0.0
+2025-04-22,Summer,Flyers,Discounted,Returning,62.94,1,89.82
+2025-04-23,Summer,Facebook,Premium,Returning,59.03,3,222.21
+2025-04-23,Summer,Referrals,Premium,New,66.72,1,53.48
+2025-04-23,Summer,Referrals,Premium,New,53.93,7,570.75
+2025-04-23,Summer,Instagram,Premium,New,28.99,7,483.27
+2025-04-23,Summer,Instagram,Premium,Returning,64.08,2,118.75
+2025-04-23,Summer,Referrals,Standard,Returning,70.61,1,17.67
+2025-04-23,Summer,Instagram,Premium,New,62.92,0,0.0
+2025-04-24,Summer,Facebook,Standard,Returning,21.89,3,168.32
+2025-04-24,Summer,Instagram,Standard,Returning,47.33,2,126.86
+2025-04-24,Summer,Referrals,Premium,New,31.82,6,566.89
+2025-04-24,Summer,Facebook,Premium,Returning,44.6,7,573.36
+2025-04-24,Summer,Instagram,Premium,New,23.93,4,196.6
+2025-04-24,Summer,Google Ads,Premium,New,67.5,0,0.0
+2025-04-24,Summer,Referrals,Premium,Returning,9.79,8,754.62
+2025-04-24,Summer,Flyers,Premium,New,36.3,10,638.04
+2025-04-25,Summer,Referrals,Premium,New,43.25,1,41.32
+2025-04-25,Summer,Google Ads,Standard,New,46.98,1,45.24
+2025-04-25,Summer,Flyers,Standard,Returning,12.33,5,438.3
+2025-04-25,Summer,Flyers,Standard,Returning,32.31,6,264.77
+2025-04-26,Summer,Flyers,Premium,New,84.22,10,707.66
+2025-04-26,Summer,Facebook,Discounted,New,53.7,0,0.0
+2025-04-26,Summer,Google Ads,Standard,Returning,46.17,3,149.73
+2025-04-26,Summer,Referrals,Standard,New,23.24,6,484.39
+2025-04-26,Summer,Facebook,Discounted,Returning,23.01,6,231.24
+2025-04-27,Summer,Instagram,Premium,New,39.24,6,323.52
+2025-04-27,Summer,Referrals,Discounted,New,37.15,9,875.37
+2025-04-27,Summer,Referrals,Standard,New,43.78,5,107.03
+2025-04-27,Summer,Facebook,Premium,New,75.96,10,690.97
+2025-04-27,Summer,Google Ads,Standard,Returning,24.6,10,572.82
+2025-04-27,Summer,Facebook,Discounted,New,65.97,10,569.42
+2025-04-27,Summer,Flyers,Standard,Returning,40.88,4,237.92
+2025-04-27,Summer,Facebook,Premium,New,81.63,0,0.0
+2025-04-27,Summer,Facebook,Standard,New,35.95,4,205.57
+2025-04-28,Summer,Instagram,Premium,New,32.68,4,80.87
+2025-04-28,Summer,Instagram,Standard,Returning,66.09,2,196.58
+2025-04-28,Summer,Referrals,Standard,Returning,99.94,5,465.31
+2025-04-28,Summer,Facebook,Standard,Returning,97.47,0,0.0
+2025-04-28,Summer,Instagram,Discounted,Returning,13.2,4,139.44
+2025-04-28,Summer,Facebook,Standard,New,86.87,3,267.39
+2025-04-29,Summer,Flyers,Premium,Returning,96.58,9,851.44
+2025-04-29,Summer,Facebook,Premium,Returning,5.46,7,664.45
+2025-04-29,Summer,Google Ads,Premium,Returning,13.96,5,363.92
+2025-04-29,Summer,Flyers,Standard,New,5.28,10,519.51
+2025-04-29,Summer,Referrals,Premium,New,34.82,7,415.07
+2025-04-29,Summer,Referrals,Standard,New,80.72,7,231.88
+2025-04-29,Summer,Facebook,Discounted,New,43.45,7,311.16
+2025-04-30,Summer,Google Ads,Standard,Returning,19.97,7,384.04
+2025-04-30,Summer,Instagram,Standard,Returning,18.03,9,432.54
+2025-04-30,Summer,Flyers,Standard,Returning,29.13,4,399.49
+2025-04-30,Summer,Flyers,Discounted,Returning,86.68,0,0.0
+2025-05-01,Summer,Facebook,Standard,New,42.45,7,638.26
+2025-05-01,Summer,Instagram,Discounted,New,70.82,10,184.06
+2025-05-01,Summer,Flyers,Discounted,New,78.41,7,415.64
+2025-05-01,Summer,Instagram,Discounted,Returning,48.82,3,151.26
+2025-05-01,Summer,Flyers,Premium,Returning,12.16,7,656.7
+2025-05-01,Summer,Facebook,Standard,New,90.21,9,220.91
+2025-05-01,Summer,Facebook,Standard,Returning,45.05,9,781.37
+2025-05-01,Summer,Instagram,Discounted,Returning,71.76,0,0.0
+2025-05-02,Summer,Flyers,Premium,Returning,19.19,2,49.99
+2025-05-02,Summer,Instagram,Standard,Returning,89.97,1,41.01
+2025-05-02,Summer,Referrals,Premium,New,68.93,3,102.81
+2025-05-02,Summer,Flyers,Premium,New,15.54,6,449.51
+2025-05-02,Summer,Facebook,Standard,Returning,63.7,8,183.97
+2025-05-02,Summer,Referrals,Premium,New,14.19,3,196.49
+2025-05-02,Summer,Referrals,Standard,New,23.25,9,498.58
