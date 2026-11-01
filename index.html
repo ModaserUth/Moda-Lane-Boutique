@@ -1,0 +1,1026 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Moda Lane | Business Intelligence Project</title>
+
+<meta name="description" content="Moda Lane Boutique Business Intelligence project showcasing sales analytics, customer insights, marketing performance, and business recommendations.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+
+<style>
+:root {
+    --bg: #f8f7f4;
+    --surface: #ffffff;
+    --text: #22252d;
+    --muted: #777b86;
+    --primary: #7259a8;
+    --primary-dark: #4e3b7b;
+    --accent: #d5b78c;
+    --border: #e9e6e1;
+    --shadow: 0 15px 45px rgba(30, 25, 45, 0.07);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 90px;
+}
+
+body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    line-height: 1.7;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.container {
+    width: min(1150px, 90%);
+    margin: auto;
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background: rgba(255,255,255,.94);
+    backdrop-filter: blur(15px);
+    border-bottom: 1px solid var(--border);
+}
+
+.nav-content {
+    min-height: 76px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 25px;
+}
+
+.logo {
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    font-weight: 700;
+    color: var(--primary-dark);
+}
+
+.logo span {
+    color: var(--accent);
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 22px;
+    font-size: 13px;
+    color: var(--muted);
+}
+
+.nav-links a:hover {
+    color: var(--primary);
+}
+
+.menu-toggle {
+    display: none;
+    border: none;
+    background: none;
+    font-size: 26px;
+    cursor: pointer;
+}
+
+.hero {
+    padding: 115px 0 100px;
+    background:
+        radial-gradient(circle at 85% 20%, #e8def2 0, transparent 30%),
+        linear-gradient(135deg, #f8f7f4, #eee9f4);
+}
+
+.hero-grid {
+    display: grid;
+    grid-template-columns: 1.25fr .75fr;
+    align-items: center;
+    gap: 60px;
+}
+
+.eyebrow {
+    color: var(--primary);
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 12px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+    line-height: 1.2;
+}
+
+h1 {
+    font-size: clamp(42px, 6vw, 68px);
+    margin-bottom: 25px;
+    max-width: 750px;
+}
+
+h1 span {
+    color: var(--primary);
+}
+
+.hero p {
+    color: var(--muted);
+    font-size: 17px;
+    max-width: 650px;
+    margin-bottom: 32px;
+}
+
+.actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.btn {
+    padding: 13px 22px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    display: inline-block;
+    transition: .2s;
+}
+
+.btn-primary {
+    background: var(--primary);
+    color: white;
+}
+
+.btn-primary:hover {
+    background: var(--primary-dark);
+    transform: translateY(-2px);
+}
+
+.btn-outline {
+    border: 1px solid var(--primary);
+    color: var(--primary);
+}
+
+.hero-card {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 22px;
+    padding: 30px;
+    box-shadow: var(--shadow);
+    transform: rotate(2deg);
+}
+
+.hero-card .small-label {
+    color: var(--muted);
+    font-size: 12px;
+}
+
+.hero-card h2 {
+    font-size: 27px;
+    margin: 15px 0;
+}
+
+.hero-card .big-number {
+    font-size: 42px;
+    font-weight: 700;
+    color: var(--primary);
+}
+
+.hero-card p {
+    font-size: 13px;
+    margin: 0;
+}
+
+.section {
+    padding: 85px 0;
+}
+
+.section-white {
+    background: var(--surface);
+}
+
+.section-heading {
+    max-width: 720px;
+    margin-bottom: 45px;
+}
+
+.section-heading h2 {
+    font-size: clamp(30px, 4vw, 42px);
+    margin-bottom: 15px;
+}
+
+.section-heading p {
+    color: var(--muted);
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.card {
+    background: white;
+    padding: 27px;
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    box-shadow: 0 8px 25px rgba(20,20,30,.025);
+}
+
+.card .number {
+    color: var(--primary);
+    font-weight: 700;
+    font-size: 13px;
+    margin-bottom: 18px;
+}
+
+.card h3 {
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+
+.card p {
+    color: var(--muted);
+    font-size: 14px;
+}
+
+.metrics {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+}
+
+.metric {
+    padding: 25px;
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+}
+
+.metric strong {
+    display: block;
+    font-size: 29px;
+    color: var(--primary);
+    margin-bottom: 5px;
+}
+
+.metric span {
+    font-size: 13px;
+    color: var(--muted);
+}
+
+.chart-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 22px;
+}
+
+.chart-box {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 18px;
+    min-width: 0;
+}
+
+.chart-box h3 {
+    font-size: 19px;
+    margin: 5px 10px 12px;
+}
+
+.chart {
+    width: 100%;
+    height: 330px;
+}
+
+.callout {
+    padding: 25px;
+    border-left: 4px solid var(--primary);
+    background: #f2eef8;
+    border-radius: 8px;
+    color: #51456b;
+    margin-top: 25px;
+}
+
+.steps {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+}
+
+.step {
+    padding: 22px;
+    border-top: 3px solid var(--accent);
+    background: white;
+    border-radius: 8px;
+}
+
+.step strong {
+    display: block;
+    color: var(--primary);
+    margin-bottom: 12px;
+}
+
+.step p {
+    font-size: 13px;
+    color: var(--muted);
+}
+
+.recommendation-list {
+    display: grid;
+    gap: 14px;
+}
+
+.recommendation {
+    display: flex;
+    gap: 18px;
+    background: white;
+    border: 1px solid var(--border);
+    padding: 22px;
+    border-radius: 12px;
+}
+
+.recommendation .icon {
+    min-width: 38px;
+    height: 38px;
+    display: grid;
+    place-items: center;
+    background: #eee8f7;
+    color: var(--primary);
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.recommendation h3 {
+    font-size: 19px;
+    margin-bottom: 6px;
+}
+
+.recommendation p {
+    font-size: 14px;
+    color: var(--muted);
+}
+
+.tech-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.tech {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 30px;
+    padding: 10px 18px;
+    color: var(--primary-dark);
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.footer {
+    padding: 40px 0;
+    background: #24212c;
+    color: white;
+    text-align: center;
+}
+
+.footer p {
+    color: #c4bfce;
+    font-size: 13px;
+    margin-top: 10px;
+}
+
+@media(max-width: 900px) {
+    .hero-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .hero-card {
+        transform: none;
+    }
+
+    .cards, .metrics {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .steps {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media(max-width: 650px) {
+    .menu-toggle {
+        display: block;
+    }
+
+    .nav-links {
+        display: none;
+        position: absolute;
+        top: 76px;
+        left: 0;
+        right: 0;
+        padding: 20px 5%;
+        background: white;
+        border-bottom: 1px solid var(--border);
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .nav-links.open {
+        display: flex;
+    }
+
+    .hero {
+        padding: 75px 0;
+    }
+
+    .section {
+        padding: 60px 0;
+    }
+
+    .cards, .metrics, .chart-grid, .steps {
+        grid-template-columns: 1fr;
+    }
+
+    .chart {
+        height: 280px;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<nav class="navbar">
+    <div class="container nav-content">
+        <a class="logo" href="#home">Moda <span>Lane.</span></a>
+
+        <button class="menu-toggle" id="menuToggle" aria-label="Toggle navigation">☰</button>
+
+        <div class="nav-links" id="navLinks">
+            <a href="#overview">Overview</a>
+            <a href="#dataset">Dataset</a>
+            <a href="#analytics">Analytics</a>
+            <a href="#insights">Insights</a>
+            <a href="#recommendations">Recommendations</a>
+            <a href="#methodology">Methodology</a>
+        </div>
+    </div>
+</nav>
+
+
+<!-- HERO -->
+
+<header class="hero" id="home">
+    <div class="container hero-grid">
+
+        <div>
+            <div class="eyebrow">Business Intelligence Case Study</div>
+
+            <h1>
+                Turning Business Data Into
+                <span>Smarter Decisions.</span>
+            </h1>
+
+            <p>
+                A comprehensive Business Intelligence project for Moda Lane Boutique,
+                transforming sales, customer, and marketing data into actionable
+                business insights through analytics and rule-based recommendations.
+            </p>
+
+            <div class="actions">
+                <a href="#analytics" class="btn btn-primary">Explore Analytics</a>
+                <a href="#recommendations" class="btn btn-outline">View Recommendations</a>
+            </div>
+        </div>
+
+        <div class="hero-card">
+            <div class="small-label">PROJECT SNAPSHOT</div>
+            <h2>Moda Lane Boutique</h2>
+            <div class="big-number">2,000</div>
+            <p>Dataset records analyzed</p>
+            <hr style="border:0;border-top:1px solid #eee;margin:22px 0;">
+            <p><strong>Focus Areas</strong></p>
+            <p>Sales · Customers · Marketing · Seasonal Performance</p>
+        </div>
+
+    </div>
+</header>
+
+
+<!-- OVERVIEW -->
+
+<section class="section" id="overview">
+    <div class="container">
+
+        <div class="section-heading">
+            <div class="eyebrow">01 / Project Overview</div>
+            <h2>Understanding the Business</h2>
+            <p>
+                The project analyzes boutique business performance across sales,
+                customer categories, marketing channels, service types, and seasons.
+                Its goal is to provide a clear picture of business performance and
+                support evidence-based decisions.
+            </p>
+        </div>
+
+        <div class="cards">
+
+            <div class="card">
+                <div class="number">01 — BUSINESS CHALLENGE</div>
+                <h3>Performance Visibility</h3>
+                <p>
+                    Understand how revenue and conversions vary across
+                    marketing channels and business categories.
+                </p>
+            </div>
+
+            <div class="card">
+                <div class="number">02 — ANALYTICAL GOAL</div>
+                <h3>Customer Understanding</h3>
+                <p>
+                    Compare new and returning customer categories and
+                    identify differences in their revenue contribution.
+                </p>
+            </div>
+
+            <div class="card">
+                <div class="number">03 — BUSINESS VALUE</div>
+                <h3>Actionable Decisions</h3>
+                <p>
+                    Translate analytical findings into practical marketing,
+                    sales, and operational recommendations.
+                </p>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+<!-- DATASET -->
+
+<section class="section section-white" id="dataset">
+    <div class="container">
+
+        <div class="section-heading">
+            <div class="eyebrow">02 / Dataset Overview</div>
+            <h2>What Does the Data Contain?</h2>
+            <p>
+                The analysis is based on a structured dataset containing
+                2,000 records and eight original attributes.
+            </p>
+        </div>
+
+        <div class="metrics">
+            <div class="metric">
+                <strong>2,000</strong>
+                <span>Records</span>
+            </div>
+
+            <div class="metric">
+                <strong>8</strong>
+                <span>Original Columns</span>
+            </div>
+
+            <div class="metric">
+                <strong>2024–25</strong>
+                <span>Data Period</span>
+            </div>
+
+            <div class="metric">
+                <strong>5</strong>
+                <span>Marketing Channels</span>
+            </div>
+        </div>
+
+        <div class="callout">
+            <strong>Dataset Attributes:</strong>
+            Date, Season, Channel, Service Type, Customer Type,
+            Ad Spend, Conversions, and Revenue.
+        </div>
+
+    </div>
+</section>
+
+
+<!-- DATA PREPARATION -->
+
+<section class="section" id="preparation">
+    <div class="container">
+
+        <div class="section-heading">
+            <div class="eyebrow">03 / Data Preparation</div>
+            <h2>From Raw Data to Analysis</h2>
+            <p>
+                A structured preparation workflow ensures that the
+                dataset is suitable for reliable descriptive analysis.
+            </p>
+        </div>
+
+        <div class="steps">
+
+            <div class="step">
+                <strong>01. Inspection</strong>
+                <p>Review data types, dimensions, missing values, duplicates, and category consistency.</p>
+            </div>
+
+            <div class="step">
+                <strong>02. Cleaning</strong>
+                <p>Convert dates and numeric fields, standardize text categories, and validate records.</p>
+            </div>
+
+            <div class="step">
+                <strong>03. Feature Engineering</strong>
+                <p>Create monthly, yearly, weekday, ROAS, CPA, and revenue-per-conversion metrics.</p>
+            </div>
+
+            <div class="step">
+                <strong>04. Analysis</strong>
+                <p>Explore sales, customer categories, marketing channels, services, and seasonal patterns.</p>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+<!-- ANALYTICS -->
+
+<section class="section section-white" id="analytics">
+    <div class="container">
+
+        <div class="section-heading">
+            <div class="eyebrow">04 / Business Analytics</div>
+            <h2>Explore the Business Performance</h2>
+            <p>
+                Interactive charts demonstrate the analytical dimensions
+                used to understand revenue generation and business performance.
+            </p>
+        </div>
+
+        <div class="chart-grid">
+
+            <div class="chart-box">
+                <h3>Monthly Revenue Trend</h3>
+                <div id="revenueChart" class="chart"></div>
+            </div>
+
+            <div class="chart-box">
+                <h3>Revenue by Marketing Channel</h3>
+                <div id="channelChart" class="chart"></div>
+            </div>
+
+            <div class="chart-box">
+                <h3>Customer Revenue Contribution</h3>
+                <div id="customerChart" class="chart"></div>
+            </div>
+
+            <div class="chart-box">
+                <h3>Seasonal Performance</h3>
+                <div id="seasonChart" class="chart"></div>
+            </div>
+
+        </div>
+
+        <div class="callout">
+            <strong>Important:</strong>
+            The charts below use illustrative placeholder values.
+            Replace them with actual aggregated results from the analysis
+            notebook before presenting this website as a final report.
+        </div>
+
+    </div>
+</section>
+
+
+<!-- INSIGHTS -->
+
+<section class="section" id="insights">
+    <div class="container">
+
+        <div class="section-heading">
+            <div class="eyebrow">05 / Analytical Insights</div>
+            <h2>What Should the Business Understand?</h2>
+            <p>
+                The following are the key analytical questions addressed
+                by the project. Final conclusions should be populated
+                from the actual analysis results.
+            </p>
+        </div>
+
+        <div class="cards">
+
+            <div class="card">
+                <div class="number">SALES PERFORMANCE</div>
+                <h3>Revenue Trends</h3>
+                <p>
+                    Identify monthly revenue patterns, high-performing periods,
+                    and changes in advertising expenditure.
+                </p>
+            </div>
+
+            <div class="card">
+                <div class="number">CUSTOMER ANALYTICS</div>
+                <h3>Customer Categories</h3>
+                <p>
+                    Compare new and returning customer revenue contribution
+                    and record distribution.
+                </p>
+            </div>
+
+            <div class="card">
+                <div class="number">MARKETING ANALYTICS</div>
+                <h3>Channel Efficiency</h3>
+                <p>
+                    Evaluate revenue, advertising spend, conversions,
+                    CPA, and ROAS across channels.
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+
+<!-- RECOMMENDATIONS -->
+
+<section class="section section-white" id="recommendations">
+    <div class="container">
+
+        <div class="section-heading">
+            <div class="eyebrow">06 / Business Strategy</div>
+            <h2>From Insights to Recommendations</h2>
+            <p>
+                The recommendation framework converts observed business
+                performance into practical experiments and improvement actions.
+            </p>
+        </div>
+
+        <div class="recommendation-list">
+
+            <div class="recommendation">
+                <div class="icon">01</div>
+                <div>
+                    <h3>Optimize Marketing Budget</h3>
+                    <p>
+                        Compare channel ROAS and CPA. Test budget adjustments
+                        gradually and monitor results before scaling.
+                    </p>
+                </div>
+            </div>
+
+            <div class="recommendation">
+                <div class="icon">02</div>
+                <div>
+                    <h3>Develop Customer Strategies</h3>
+                    <p>
+                        Compare new and returning customer performance.
+                        Collect customer IDs and transaction history to build
+                        reliable retention and loyalty programs.
+                    </p>
+                </div>
+            </div>
+
+            <div class="recommendation">
+                <div class="icon">03</div>
+                <div>
+                    <h3>Improve Service Performance</h3>
+                    <p>
+                        Identify service types with stronger revenue or ROAS
+                        and investigate the factors behind their performance.
+                    </p>
+                </div>
+            </div>
+
+            <div class="recommendation">
+                <div class="icon">04</div>
+                <div>
+                    <h3>Plan Seasonal Campaigns</h3>
+                    <p>
+                        Use historical seasonal performance to guide campaign
+                        planning, then validate whether the patterns repeat.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+
+<!-- METHODOLOGY -->
+
+<section class="section" id="methodology">
+    <div class="container">
+
+        <div class="section-heading">
+            <div class="eyebrow">07 / Technical Implementation</div>
+            <h2>Tools & Technologies</h2>
+            <p>
+                The project combines data analysis, visualization,
+                interactive reporting, and rule-based business logic.
+            </p>
+        </div>
+
+        <div class="tech-list">
+            <span class="tech">Python</span>
+            <span class="tech">Pandas</span>
+            <span class="tech">NumPy</span>
+            <span class="tech">Matplotlib</span>
+            <span class="tech">Plotly</span>
+            <span class="tech">Jupyter Notebook</span>
+            <span class="tech">Streamlit</span>
+            <span class="tech">HTML</span>
+            <span class="tech">CSS</span>
+            <span class="tech">JavaScript</span>
+        </div>
+
+        <div class="callout">
+            <strong>Analytical Methodology:</strong>
+            Exploratory Data Analysis (EDA), aggregation, KPI engineering,
+            comparative analysis, trend analysis, and rule-based recommendations.
+        </div>
+
+    </div>
+</section>
+
+
+<!-- LIMITATIONS -->
+
+<section class="section section-white" id="limitations">
+    <div class="container">
+
+        <div class="section-heading">
+            <div class="eyebrow">08 / Data Limitations</div>
+            <h2>Building on Better Data</h2>
+            <p>
+                Some advanced analytical tasks require additional data
+                that is not included in the current dataset.
+            </p>
+        </div>
+
+        <div class="cards">
+
+            <div class="card">
+                <h3>Customer ID</h3>
+                <p>
+                    Needed for individual RFM segmentation,
+                    purchase frequency, and retention analysis.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Product & Order IDs</h3>
+                <p>
+                    Needed for product-level analysis, basket analysis,
+                    and transaction-level customer behavior.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Cost & Marketing Funnel</h3>
+                <p>
+                    Product costs and impressions, clicks, and sessions
+                    are required for profit and funnel performance analysis.
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+
+<!-- CONCLUSION -->
+
+<section class="section">
+    <div class="container">
+
+        <div class="section-heading">
+            <div class="eyebrow">09 / Project Outcome</div>
+            <h2>A Clearer View of Business Performance</h2>
+            <p>
+                Moda Lane's Business Intelligence solution provides a
+                structured way to monitor business KPIs, investigate
+                performance differences, and translate data into
+                measurable improvement opportunities.
+            </p>
+        </div>
+
+        <div class="actions">
+            <a href="#home" class="btn btn-primary">Back to Top</a>
+        </div>
+
+    </div>
+</section>
+
+
+<footer class="footer">
+    <div class="container">
+        <h2>Moda Lane Boutique</h2>
+        <p>Business Intelligence & Rule-Based Recommendation System</p>
+        <p>Sales Analytics · Customer Insights · Marketing Intelligence</p>
+    </div>
+</footer>
+
+
+<script>
+document.getElementById("menuToggle").addEventListener("click", function () {
+    document.getElementById("navLinks").classList.toggle("open");
+});
+
+document.querySelectorAll(".nav-links a").forEach(link => {
+    link.addEventListener("click", () => {
+        document.getElementById("navLinks").classList.remove("open");
+    });
+});
+
+const chartConfig = {
+    responsive: true,
+    displayModeBar: false
+};
+
+const chartLayout = {
+    autosize: true,
+    margin: { t: 15, r: 15, b: 45, l: 55 },
+    font: { family: "DM Sans, sans-serif" },
+    paper_bgcolor: "white",
+    plot_bgcolor: "white"
+};
+
+
+// Illustrative values only.
+// Replace these arrays with actual notebook output.
+
+Plotly.newPlot("revenueChart", [{
+    x: ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
+    y: [12000, 14500, 13200, 17800, 16500, 19500],
+    type: "scatter",
+    mode: "lines+markers",
+    line: { color: "#7259a8", width: 3 }
+}], {
+    ...chartLayout,
+    yaxis: { title: "Revenue" }
+}, chartConfig);
+
+
+Plotly.newPlot("channelChart", [{
+    x: ["Facebook", "Google Ads", "Instagram", "Referrals", "Flyers"],
+    y: [24000, 31000, 27000, 22000, 16000],
+    type: "bar",
+    marker: { color: "#8d78b8" }
+}], {
+    ...chartLayout,
+    yaxis: { title: "Revenue" }
+}, chartConfig);
+
+
+Plotly.newPlot("customerChart", [{
+    labels: ["New", "Returning"],
+    values: [48.69, 51.31],
+    type: "pie",
+    hole: 0.5,
+    marker: {
+        colors: ["#d5b78c", "#7259a8"]
+    }
+}], {
+    ...chartLayout,
+    showlegend: true
+}, chartConfig);
+
+
+Plotly.newPlot("seasonChart", [{
+    x: ["Spring", "Summer", "Fall", "Winter"],
+    y: [23000, 28000, 21000, 26000],
+    type: "bar",
+    marker: { color: "#b6a4d4" }
+}], {
+    ...chartLayout,
+    yaxis: { title: "Revenue" }
+}, chartConfig);
+
+</script>
+
+</body>
+</html>
